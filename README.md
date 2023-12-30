@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bijay Koirala</h1>
-<h3 align="center">A passionate feature data analyst from Nepal</h3>
+<h3 align="center">A feature data analyst from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijay085&label=Profile%20views&color=0e75b6&style=flat" alt="bijay085" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN_Stack || Data analytics**
 
-- 👨‍💻 All of my projects are available at [www.bijaykoirala0.com.np](www.bijaykoirala0.com.np)
+- 👨‍💻 All of my projects are available at [www.bijaykoirala0.com.np](www.bijaykoirala0.com.np) or in my own git ([github.com/bijay085](https://github.com/bijay085?tab=repositories&type=source))
 
 - 💬 Ask me about **Frontend || SQL || Excel**
 
