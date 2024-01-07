@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bijay Koirala</h1>
-<h3 align="center">A feature data analyst from Nepal</h3>
+<h3 align="center">A future data analyst from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijay085&label=Profile%20views&color=0e75b6&style=flat" alt="bijay085" /> </p>
 
