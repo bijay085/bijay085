@@ -20,16 +20,18 @@
 - Frontend
 - SQL
 - Excel
-- Python
--------------------------------> Always in a learning phase <-------------------------------
+- Python  
+Always in a learning phase 
+
 **📫 Portfolio:**
-- Email: bijaykoirala003@gmail.com
--------------------------------> Always in development phase <-------------------------------
+- Email: bijaykoirala003@gmail.com  
+Always in development phase
+
 **⚡ Fun fact:**
-- Secretly a Spiderman 🕷️
--------------------------------> Always in the secret phase <-------------------------------
+- Secretly a Spiderman 🕷️  
+Always in the secret phase
 <div align="center" style="font-size: 14px;">
-    💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.  game
+    💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
   
 ---
 </div>
