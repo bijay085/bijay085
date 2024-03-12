@@ -54,9 +54,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   <a href="http://discordapp.com/users/1192694890530869369">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50"/>
   </a>
-  <a href="https://www.instagram.com/bijay_085/">
-    <img src="https://banner2.cleanpng.com/20240112/rel/transparent-instagram-logo-instagram-logo-with-camera-icon-featuring-purple-f65a1f2b974d007.4376967617051122494785.jpg" alt="Instagram" height="40" width="50"/>
-  </a>
+  <a href="https://instagram.com/bijay_085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijay_085" height="30" width="40" /></a>
 </p>
 
 ## *Skills and Tools*
