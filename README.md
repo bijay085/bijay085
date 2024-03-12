@@ -82,6 +82,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
+  ![DUe](https://github.com/bijay085/bijay085/assets/107698781/d745c04f-771e-4cee-90c2-6810c61ba59f){:width="35px"}
 </p>
 
 
