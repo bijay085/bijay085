@@ -19,8 +19,8 @@
 ### - 📫 Protfolio  bijaykoirala003@gmail.com  (under developing phase)
 ### - ⚡ Fun fact: Secretly a Spiderman 🕷️  (this is secret phase)
 
-<div align="center">
-  ### 💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
+<div align="center" style="font-size: 14px;">
+    💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
   
 ---
 </div>
