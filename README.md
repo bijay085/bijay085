@@ -61,30 +61,30 @@ I'm always open to new opportunities and conversations. Let's connect!
 
 <p align="center">
 
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/181600ef-bdaa-488e-ab42-5f56b4f9a9ca" alt="WME8" width="90" height="120"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/181600ef-bdaa-488e-ab42-5f56b4f9a9ca" alt="WME8" width="90" height="120" style="padding: 15px"/>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="padding: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="padding: 15px"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="padding: 10px"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="padding: 15px"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="padding: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="padding: 15px"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="padding: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="padding: 15px"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="padding: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="padding: 15px"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="padding: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="padding: 15px"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"s tyle="padding: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"s tyle="padding: 15px"/>
   </a>
-    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="140" style="padding: 10px"/>
+    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="140" style="padding: 15px"/>
 
 </p>
 
@@ -93,7 +93,7 @@ I'm always open to new opportunities and conversations. Let's connect!
 
 <div style="display: flex; justify-content: space-between;">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="400"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="400" style="padding: 30px" />
   </p>
 
   <p>
@@ -110,6 +110,6 @@ I'm always open to new opportunities and conversations. Let's connect!
 ---
 
 <p align="center" style="font-size: 16px;">
-    Made with ❤️ by Bijay Koirala   <img src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="35">
+    Made with ❤️ by Bijay Koirala   <img allign="top" src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="40">
 
 </p>
