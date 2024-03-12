@@ -22,7 +22,7 @@
 - Excel
 - Python
 
-*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)  ![YdBN](https://github.com/bijay085/bijay085/assets/107698781/a58e2402-5d9e-4af1-93fc-56d66d0f7ded | width=35)
+*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1) <img src="https://github.com/bijay085/bijay085/assets/107698781/a58e2402-5d9e-4af1-93fc-56d66d0f7ded" alt="YdBN" width="35"/>
 
 
 *Email:* bijaykoirala003@gmail.com
