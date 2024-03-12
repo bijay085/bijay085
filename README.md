@@ -55,15 +55,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijay085&layout=compact&theme=merko&title_color=6C757D&icon_color=6C757D" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijay085&layout=compact&theme=merko&title_color=6C757D&icon_color=6C757D" alt="Top Languages" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&title_color=6C757D&icon_color=6C757D" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&title_color=6C757D&icon_color=6C757D" alt="GitHub Stats" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=merko&fire=6C757D" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=merko&fire=6C757D" alt="GitHub Streak" width="300"/>
 </p>
 
 ---
