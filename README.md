@@ -30,7 +30,8 @@
 ⚡ Fun fact: I am secretly a Spiderman 🕷️
 
 ---
-## 🌟 *What I am good at* : *Why you need to contact me* 💬 <img src="https://github.com/bijay085/bijay085/assets/107698781/3c25746b-879b-4c90-b799-66a12b3c6e26" width="55" height="55" style="vertical-align: middle;">
+## 🌟 *What I am good at* : *Why you need to contact me* 💬 ![JTIA](https://github.com/bijay085/bijay085/assets/107698781/a7f42de9-9278-401e-9083-241e3b31f107 | width=35)
+
 
 ### Feel free to get in touch if you:
 
