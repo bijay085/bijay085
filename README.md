@@ -5,9 +5,8 @@
   <img src="https://github.com/bijay085/bijay085/assets/107698781/a71e56f3-5a16-4532-ac6d-e28857d06ae8" alt="giphy" width="80"/>
 </p>
 
-<p align="center" style="font-size: 50px;">
-  🌏 Future Data Analyst from Nepal
-</p>
+## <p align="center">🌏 Future Data Analyst from Nepal</p>
+
 
 ## About Me
 
