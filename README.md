@@ -28,9 +28,16 @@
 
 ⚡ Fun fact: I am secretly a Spiderman 🕷️
 
-💡  Also, you can ask me about tweaks, IPA injection for iOS, and jailbreaking iPhone-related topics.
-
 ---
+### 🌟 Currently learning MERN Stack and Data Analytics with Python 
+
+💬*What i am good at : Why should you contact me for :*
+- Basic frontend work
+- Full fledge discord bot making and maintenance
+- A lil-bit web scarping
+- Proficient at jailbreaking iPhones, tweak injection
+- A lil bit modding iPa files
+
 ## *Want to make connection*
 
 
