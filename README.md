@@ -29,9 +29,8 @@
 ⚡ Fun fact: I am secretly a Spiderman 🕷️
 
 ---
-### 🌟 Currently learning MERN Stack and Data Analytics with Python 
+### 🌟 *What i am good at : Why should you contact me for :* 💬
 
-💬*What i am good at : Why should you contact me for :*
 - Basic frontend work
 - Full fledge discord bot making and maintenance
 - A lil-bit web scarping
