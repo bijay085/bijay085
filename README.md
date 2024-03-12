@@ -31,7 +31,7 @@
 
 
 ---
-## 💬 *What I am good at* : *Why you should contact me*  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="25" height="25" />
+## 💬 *What I am good at* : *Why you should contact me*  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="25" height="30" />
 
 ### Feel free to get in touch if you:
 
@@ -94,7 +94,7 @@ I'm always open to new opportunities and conversations. Let's connect!
 
 <div style="display: flex; justify-content: space-between;">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="400" style="padding: 40px" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="390" style="padding: 40px" />
   </p>
 
   <p>
@@ -103,7 +103,7 @@ I'm always open to new opportunities and conversations. Let's connect!
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" alt="GitHub Streak" width="420"/>
 </p>
 
 
