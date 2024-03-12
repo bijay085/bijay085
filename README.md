@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/ab408ee9-de14-4f5f-8568-584304dc7ed9" alt="giphy smokyhead" width="80" style="border-radius: 50%;"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/ab408ee9-de14-4f5f-8568-584304dc7ed9" alt="giphy smokyhead" width="150" style="border-radius: 50%;"/>
 </p>
 
 
