@@ -54,7 +54,8 @@ I'm always open to new opportunities and conversations. Let's connect!
   </a>
   <a href="https://instagram.com/bijay_085" style="padding: 10px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijay_085" height="40" width="50" />
   </a>
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/cef208be-0fad-4b3f-b246-dcfb29066b4d" width="35"/>
+  <div style="padding: 10px">  <img src="https://github.com/bijay085/bijay085/assets/107698781/cef208be-0fad-4b3f-b246-dcfb29066b4d" width="35"/>
+  </div>
 </p>
 
 
@@ -94,7 +95,7 @@ I'm always open to new opportunities and conversations. Let's connect!
 
 <div style="display: flex; justify-content: space-between;">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="400" style="padding: 30px" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="400" style="padding: 40px" />
   </p>
 
   <p>
