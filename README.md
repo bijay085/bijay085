@@ -14,7 +14,7 @@
 
 ## About Me       <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="30"/>
 
-# - 🌱 Currently learning MERN Stack and Data Analytics with Python 
+### - 🌱 Currently learning MERN Stack and Data Analytics with Python 
 # - 💬 Ask me about Frontend, SQL, Excel, Python  (always be in learning phase)
 # - 📫 Protfolio  bijaykoirala003@gmail.com  (under developing phase)
 # - ⚡ Fun fact: Secretly a Spiderman 🕷️  (this is secret phase)
