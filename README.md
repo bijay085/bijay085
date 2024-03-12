@@ -31,7 +31,7 @@
 
 
 ---
-## 🌟 *What I am good at* : *Why you need to contact me* 💬 <img src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="50">
+## 🌟 *What I am good at* : *Why you need to contact me* 💬 <img src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="40">
 
 ### Feel free to get in touch if you:
 
