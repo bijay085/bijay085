@@ -27,20 +27,19 @@
 
 
 *Portfolio*
----
 [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
 
 *Always in development phase*
 
----
-
 - Email: bijaykoirala003@gmail.com
 
----
+
+
 **⚡ Fun fact:**
-- Secretly a Spiderman 🕷️
+- I am secretly a Spiderman 🕷️
 
 *Always in the secret phase*
+
 
 <div align="center" style="font-size: 16px;">
     💡  Also, you can ask me about tweaks, IPA injection for iOS, and jailbreaking iPhone-related topics.
@@ -50,6 +49,7 @@
 
 
 ## *Want to make connection*
+
 
 <p align="center">
   <a href="https://linkedin.com/in/bijaykoirala085">
