@@ -22,19 +22,10 @@
 - Excel
 - Python
 
-*Always in a learning phase*
+*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
 
-
-
-*Portfolio*
-[bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
-
-*Always in development phase*
-
-- Email: bijaykoirala003@gmail.com
-
-
-
+*Email:* bijaykoirala003@gmail.com
+---
 **⚡ Fun fact:**
 - I am secretly a Spiderman 🕷️
 
