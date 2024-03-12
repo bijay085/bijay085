@@ -17,8 +17,14 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bijaykoirala085-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/bijaykoirala085)
-[![Discord](https://img.shields.io/badge/Discord-898894363097190432-blue?logo=discord&logoColor=white)](https://discord.gg/898894363097190432)
+<p align="center">
+  <a href="https://linkedin.com/in/bijaykoirala085" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://discord.gg/898894363097190432" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
+  </a>
+</p>
 
 ## Skills and Tools
 
@@ -48,9 +54,9 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bijay085&layout=compact&theme=merko&title_color=4CAF50&icon_color=4CAF50)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&title_color=4CAF50&icon_color=4CAF50)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=merko&fire=4CAF50)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bijay085&layout=compact&theme=merko&title_color=6C757D&icon_color=6C757D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&title_color=6C757D&icon_color=6C757D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=merko&fire=6C757D)
 
 ---
 
