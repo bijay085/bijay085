@@ -27,7 +27,7 @@
 
 *Email:* bijaykoirala003@gmail.com
 
-⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/4d568ffc-6f80-40d9-8fa0-d8a785048cfc" width="37" style="padding-top: 500px"/>
+⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/4d568ffc-6f80-40d9-8fa0-d8a785048cfc" width="37" style="margin: 20px"/>
 
 
 ---
@@ -54,6 +54,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   </a>
   <a href="https://instagram.com/bijay_085" style="padding: 10px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijay_085" height="40" width="50" />
   </a>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/cef208be-0fad-4b3f-b246-dcfb29066b4d" width="35"/>
 </p>
 
 
