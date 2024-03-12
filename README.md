@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Bijay Koirala 🧑‍💻
 
 <p align="center">
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/ab408ee9-de14-4f5f-8568-584304dc7ed9" alt="Profile Image" width="150" style="border-radius: 50%;"/>
+  <img src="[https://github.com/bijay085/bijay085/assets/107698781/ab408ee9-de14-4f5f-8568-584304dc7ed9](https://github.com/bijay085/bijay085/assets/107698781/275b2028-b47f-4769-895f-3702ec55272d)" alt="Profile Image" width="100" />
 </p>
+
 
 <p align="center" style="font-size: 30px;">
   🌏 Future Data Analyst from Nepal
@@ -55,9 +56,16 @@
 ## GitHub Stats
 
 <p >
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=merko&fire=6C757D" alt="bijay085" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=merko&fire=6C757D" alt="bijay085" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&fire=6C757D" alt="bijay085" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&fire=6C757D" alt="bijay085" />
+  </p>
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=merko&fire=6C757D" alt="GitHub Streak" width="400"/>
