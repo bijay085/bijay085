@@ -4,7 +4,7 @@
   <img src="https://github.com/bijay085/bijay085/assets/107698781/ab408ee9-de14-4f5f-8568-584304dc7ed9" alt="Profile Image" width="150" style="border-radius: 50%;"/>
 </p>
 
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 30px;">
   🌏 Future Data Analyst from Nepal
 </p>
 
@@ -55,11 +55,13 @@
 ## GitHub Stats
 
 <p >
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact" alt="bijay085" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=merko&fire=6C757D" alt="bijay085" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en" alt="bijay085" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&fire=6C757D" alt="bijay085" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&" alt="bijay085" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=merko&fire=6C757D" alt="GitHub Streak" width="400"/>
+</p>
 </p>
 
 ---
