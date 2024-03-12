@@ -12,7 +12,7 @@
 </h1>
 
 
-## About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="60" height="60"/>
+## About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="40" height="40"/>
 
 ### 🌱 Currently learning MERN Stack and Data Analytics with Python
 
@@ -27,11 +27,11 @@
 
 *Email:* bijaykoirala003@gmail.com
 
-⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/4d568ffc-6f80-40d9-8fa0-d8a785048cfc" width="35">
+⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/4d568ffc-6f80-40d9-8fa0-d8a785048cfc" width="37">
 
 
 ---
-## 🌟 *What I am good at* : *Why you need to contact me* 💬 <img src="https://github.com/bijay085/bijay085/assets/107698781/a7f42de9-9278-401e-9083-241e3b31f107" alt="JTIA" width="35">
+## 🌟 *What I am good at* : *Why you need to contact me* 💬 <img src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="50">
 
 ### Feel free to get in touch if you:
 
@@ -83,7 +83,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
-    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="70">
+    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="110">
 
 </p>
 
