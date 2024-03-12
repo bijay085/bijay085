@@ -33,8 +33,8 @@
 
 Feel free to get in touch if you:
 
-### - Have questions about my projects.
-### - Want to collaborate on a project.
+#### - Have questions about my projects.
+#### - Want to collaborate on a project.
 ### - Need assistance with Discord bot development.
 ### - Want to develop basic websites.
 ### - Seek advice on iOS jailbreaking and iPa.
