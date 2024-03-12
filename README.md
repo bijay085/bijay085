@@ -85,7 +85,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
-<img src="https://github.com/bijay085/bijay085/assets/107698781/e63976ba-7ddd-4a00-9a52-89534a206bc2" width="35">
+    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="35">
 
 </p>
 
@@ -111,7 +111,6 @@ I'm always open to new opportunities and conversations. Let's connect!
 ---
 
 <p align="center" style="font-size: 16px;">
-    Made with ❤️ by Bijay Koirala <img src="https://github.com/bijay085/bijay085/assets/107698781/295cb1f2-28d1-428b-8a72-96de7637dce0" width="35">
-
+    Made with ❤️ by Bijay Koirala   <img src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="35">
 
 </p>
