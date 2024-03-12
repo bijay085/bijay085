@@ -12,7 +12,7 @@
 </h1>
 
 
-## About Me       <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="30"/>
+## About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="30"/>
 
 ### 🌱 Currently learning MERN Stack and Data Analytics with Python 
 
@@ -23,13 +23,15 @@
 - Python
 <br>
 -------------------------------> Always in a learning phase <-------------------------------
----
+
 **📫 Portfolio:**
 - Email: bijaykoirala003@gmail.com
+<br>
 -------------------------------> Always in development phase <-------------------------------
  
 **⚡ Fun fact:**
 - Secretly a Spiderman 🕷️
+<br>
 -------------------------------> Always in the secret phase <-------------------------------
 
 
