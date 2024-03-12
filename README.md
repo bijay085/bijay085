@@ -22,7 +22,8 @@
 - Excel
 - Python
 
-*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
+*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)  ![YdBN](https://github.com/bijay085/bijay085/assets/107698781/a58e2402-5d9e-4af1-93fc-56d66d0f7ded | width=35)
+
 
 *Email:* bijaykoirala003@gmail.com
 
@@ -31,7 +32,7 @@
 ---
 ## 🌟 *What i am good at : Why you need to contact me :* 💬
 
-Feel free to get in touch if you:
+### Feel free to get in touch if you:
 
 #### - Have questions about my projects.
 #### - Want to collaborate on a project.
