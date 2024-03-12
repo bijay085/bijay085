@@ -20,13 +20,14 @@
 - Frontend
 - SQL
 - Excel
-- Python (always in a learning phase)
-
+- Python
+  -------------------------------> Always in a learning phase <-------------------------------
+  
 **📫 Portfolio:**
-- Email: bijaykoirala003@gmail.com (under development)
+- Email: bijaykoirala003@gmail.com       (under development phase)
 
 **⚡ Fun fact:**
-- Secretly a Spiderman 🕷️  (this is the secret phase)
+- Secretly a Spiderman 🕷️      (this is the secret phase)
 
 
 <div align="center" style="font-size: 14px;">
