@@ -14,8 +14,7 @@
 
 ## About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="30"/>
 
-### 🌱 Currently learning MERN Stack and Data Analytics with Python <img src="https://github.com/bijay085/bijay085/assets/107698781/3c25746b-879b-4c90-b799-66a12b3c6e26" width="55">
-
+### 🌱 Currently learning MERN Stack and Data Analytics with Python
 
 
 💬*Ask me about:*
@@ -31,7 +30,8 @@
 ⚡ Fun fact: I am secretly a Spiderman 🕷️
 
 ---
-## 🌟 *What i am good at : Why you need to contact me :* 💬
+## 🌟 *What i am good at : Why you need to contact me :* 💬 <img src="https://github.com/bijay085/bijay085/assets/107698781/3c25746b-879b-4c90-b799-66a12b3c6e26" width="55" height="55">
+
 
 ### Feel free to get in touch if you:
 
