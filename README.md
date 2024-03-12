@@ -2,7 +2,7 @@
 <h3 align="center">A future data analyst from Nepal</h3>
 
 <div align="center">
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/2c966f56-6f5b-4681-a48d-ff9ee2801e7c" alt="giphy" width="300"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/2c966f56-6f5b-4681-a48d-ff9ee2801e7c" alt="giphy" width="100"/>
 </div>
 
 
