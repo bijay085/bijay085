@@ -29,16 +29,16 @@
 ⚡ Fun fact: I am secretly a Spiderman 🕷️
 
 ---
-### 🌟 *What i am good at : Why Connect With Me :* 💬
+## 🌟 *What i am good at : Why Connect With Me :* 💬
 
 Feel free to get in touch if you:
 
-- Have questions about my projects.
-- Want to collaborate on a project.
-- Need assistance with Discord bot development.
-- Want to develop basic websites.
-- Seek advice on iOS jailbreaking and iPa.
-- Just want to chat or share ideas!
+### - Have questions about my projects.
+### - Want to collaborate on a project.
+### - Need assistance with Discord bot development.
+### - Want to develop basic websites.
+### - Seek advice on iOS jailbreaking and iPa.
+### - Just want to chat or share ideas!
 
 I'm always open to new opportunities and conversations. Let's connect!
 
