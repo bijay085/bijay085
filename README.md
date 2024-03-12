@@ -31,7 +31,7 @@
 
 
 ---
-## 💬 *What I am good at* : *Why you should contact me*  <img src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="35">
+## 💬 *What I am good at* : *Why you should contact me*  <img src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="32">
 
 ### Feel free to get in touch if you:
 
@@ -83,7 +83,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
-    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="110">
+    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="140">
 
 </p>
 
