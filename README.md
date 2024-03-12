@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bijay Koirala 🧑‍💻</h1>
 <h3 align="center">A future data analyst from Nepal</h3>
 
+![giphy](https://github.com/bijay085/bijay085/assets/107698781/2c966f56-6f5b-4681-a48d-ff9ee2801e7c)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijay085&label=Profile%20views&color=0e75b6&style=flat" alt="bijay085" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijay085" alt="bijay085" /></a> </p>
