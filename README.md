@@ -57,11 +57,11 @@
 
 <div style="display: flex; justify-content: space-between;">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="400"/>
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" alt="bijay085" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" alt="bijay085" width="400" />
   </p>
 </div>
 
@@ -73,7 +73,7 @@
   Custom GitHub Stats Title
 </p>
 
-# ---
+---
 
 <p align="center" style="font-size: 16px;">
   Made with ❤️ by Bijay Koirala
