@@ -14,14 +14,12 @@
 
 ## About Me       <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="30"/>
 
-- 🌱 Currently learning MERN Stack and Data Analytics
-- 💬 Ask me about Frontend, SQL, Excel
-- 📫 Reach me at bijaykoirala003@gmail.com
-- ⚡ Fun fact: Secretly a Spiderman 🕷️
+# - 🌱 Currently learning MERN Stack and Data Analytics with Python 
+# - 💬 Ask me about Frontend, SQL, Excel, Python  (always be in learning phase)
+# - 📫 Protfolio  bijaykoirala003@gmail.com  (under developing phase)
+# - ⚡ Fun fact: Secretly a Spiderman 🕷️  (this is secret phase)
 
 <div align="center">
----
-  
 💡 Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
   
 ---
