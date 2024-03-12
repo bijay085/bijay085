@@ -69,9 +69,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
-<p align="center" style="font-size: 16px;">
-  Custom GitHub Stats Title
-</p>
+
 
 ---
 
