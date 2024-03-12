@@ -6,9 +6,9 @@
 </p>
 
 <h1 align="center" style="font-size: 18px;">
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/c1044b84-639c-4b66-8b8f-51e2a1eeb22e" alt="WXfK" width="30"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/c1044b84-639c-4b66-8b8f-51e2a1eeb22e" alt="WXfK" width="35" height="35"/>
   Future Data Analyst from Nepal
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/e0c082ef-3d33-4279-bfad-9726172a98f4" alt="5UKF" width="30"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/e0c082ef-3d33-4279-bfad-9726172a98f4" alt="5UKF" width="35" height="35"/>
 </h1>
 
 
