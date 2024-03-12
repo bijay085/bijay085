@@ -16,7 +16,7 @@
 
 ### 🌱 Currently learning MERN Stack and Data Analytics with Python 
 
-**💬 Ask me about:**
+*💬 Ask me about:*
 - Frontend
 - SQL
 - Excel
@@ -30,15 +30,16 @@ bijaykoirala0.com.np
 
 *Always in development phase*
 
+---
+
 - Email: bijaykoirala003@gmail.com
 
-
+---
 **⚡ Fun fact:**
 - Secretly a Spiderman 🕷️
 
 *Always in the secret phase*
 
-Always in the secret phase
 <div align="center" style="font-size: 16px;">
     💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
   
