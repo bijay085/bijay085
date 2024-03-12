@@ -29,7 +29,7 @@
 ⚡ Fun fact: I am secretly a Spiderman 🕷️
 
 ---
-## 🌟 *What i am good at : Why Connect With Me :* 💬
+## 🌟 *What i am good at : Why you need to contact me :* 💬
 
 Feel free to get in touch if you:
 
