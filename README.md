@@ -30,7 +30,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/181600ef-bdaa-488e-ab42-5f56b4f9a9ca" alt="WME8" width="90"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/181600ef-bdaa-488e-ab42-5f56b4f9a9ca" alt="WME8" width="90" height="120"/>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
