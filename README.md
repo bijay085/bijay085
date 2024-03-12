@@ -23,8 +23,11 @@
 - Python
 
 *Always in a learning phase*
+
+*Portfolio*
 ---
-**📫 Portfolio: bijaykoirala0.com.np **
+bijaykoirala0.com.np
+
 *Always in development phase*
 
 - Email: bijaykoirala003@gmail.com
