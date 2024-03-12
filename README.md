@@ -26,7 +26,7 @@
 
 *Portfolio*
 ---
-bijaykoirala0.com.np
+[bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
 
 *Always in development phase*
 
