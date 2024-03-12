@@ -22,7 +22,7 @@
 - Excel
 - Python
 
-*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1) <img src="https://github.com/bijay085/bijay085/assets/107698781/a58e2402-5d9e-4af1-93fc-56d66d0f7ded" alt="YdBN" width="35"/>
+*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1) <img src="https://github.com/bijay085/bijay085/assets/107698781/a58e2402-5d9e-4af1-93fc-56d66d0f7ded" alt="YdBN" width="50"/>
 
 
 *Email:* bijaykoirala003@gmail.com
@@ -34,12 +34,12 @@
 
 ### Feel free to get in touch if you:
 
-#### - Have questions about my projects.
-#### - Want to collaborate on a project.
-#### - Need assistance with Discord bot development.
-#### - Want to develop basic websites.
-#### - Seek advice on iOS jailbreaking and iPa.
-#### - Just want to chat or share ideas!
+- Have questions about my projects.
+- Want to collaborate on a project.
+- Need assistance with Discord bot development.
+- Want to develop basic websites.
+- Seek advice on iOS jailbreaking and iPa.
+- Just want to chat or share ideas!
 
 I'm always open to new opportunities and conversations. Let's connect!
 
