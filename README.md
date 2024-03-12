@@ -11,7 +11,7 @@
   <img src="https://github.com/bijay085/bijay085/assets/107698781/e0c082ef-3d33-4279-bfad-9726172a98f4" alt="5UKF" width="50" height="50"/>
 </h1>
 
-##  ![WMy8](https://github.com/bijay085/bijay085/assets/107698781/22559ad1-4aa8-4dd0-be80-8e869079f0c7) width="40" About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="40" height="40"/>
+##  <img src="https://github.com/bijay085/bijay085/assets/107698781/22559ad1-4aa8-4dd0-be80-8e869079f0c7" width="35" />  About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="40" height="40"/>
 
 ### 🌱 Currently learning MERN Stack and Data Analytics with Python
 
