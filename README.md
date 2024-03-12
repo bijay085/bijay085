@@ -14,7 +14,7 @@
 
 ## About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="30"/>
 
-### 🌱 Currently learning MERN Stack and Data Analytics with Python 
+### 🌱 Currently learning MERN Stack and Data Analytics with Python  <img src="https://github.com/bijay085/bijay085/assets/107698781/a58e2402-5d9e-4af1-93fc-56d66d0f7ded" alt="YdBN" width="50"/>
 
 💬*Ask me about:*
 - Frontend
@@ -22,8 +22,7 @@
 - Excel
 - Python
 
-*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1) <img src="https://github.com/bijay085/bijay085/assets/107698781/a58e2402-5d9e-4af1-93fc-56d66d0f7ded" alt="YdBN" width="50"/>
-
+*Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1) 
 
 *Email:* bijaykoirala003@gmail.com
 
