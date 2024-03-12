@@ -31,7 +31,7 @@
 
 
 ---
-## 💬 *What I am good at* : *Why you should contact me*  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="25" height="30" />
+## 💬 *What I am good at* : *Why you should contact me*  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="30" height="30" />
 
 ### Feel free to get in touch if you:
 
@@ -54,7 +54,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   </a>
   <a href="https://instagram.com/bijay_085" style="padding: 10px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijay_085" height="40" width="50" />
   </a>
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/cef208be-0fad-4b3f-b246-dcfb29066b4d" width="50" style="padding: 10px"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/cef208be-0fad-4b3f-b246-dcfb29066b4d" width="60" height="60" />
 </p>
 
 
