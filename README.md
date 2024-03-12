@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Z3zH" width="28"/> I'm Bijay Koirala 🧑‍💻</h1>
+<h1 align="center">Hi there! <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Z3zH" width="45"/> I'm Bijay Koirala 🧑‍💻</h1>
 
 
 <p align="center">
