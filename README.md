@@ -56,21 +56,20 @@
 
 <div style="display: flex; justify-content: space-between;">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=merko&fire=6C757D" alt="bijay085" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=merko&title_color=6C757D&icon_color=6C757D" alt="bijay085" />
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&fire=6C757D" alt="bijay085" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=merko&title_color=6C757D&icon_color=6C757D" alt="bijay085" />
   </p>
 </div>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=merko&fire=6C757D" alt="GitHub Streak" width="400"/>
 </p>
 
 
----
+# -----
 
 <p align="center" style="font-size: 16px;">
   Made with ❤️ by Bijay Koirala
