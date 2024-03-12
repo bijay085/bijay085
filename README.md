@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/bijaykoirala085" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <a href="https://discord.gg/898894363097190432" target="blank">
+  <a href="[https://discord.gg/898894363097190432](http://discordapp.com/users/1192694890530869369)" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50"/>
   </a>
 </p>
