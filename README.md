@@ -24,6 +24,8 @@
 
 *Always in a learning phase*
 
+
+
 *Portfolio*
 ---
 [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
@@ -47,7 +49,7 @@
 </div>
 
 
-## *Connect with Me*
+## *Want to make connection*
 
 <p align="center">
   <a href="https://linkedin.com/in/bijaykoirala085">
@@ -109,5 +111,5 @@
 ---
 
 <p align="center" style="font-size: 16px;">
-###  Made with ❤️ by Bijay Koirala
+    Made with ❤️ by Bijay Koirala
 </p>
