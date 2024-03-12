@@ -7,7 +7,7 @@
 
 <h1 align="center" style="font-size: 18px;">🌏 Future Data Analyst from Nepal</h1> 
 
-## About Me  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="50"/>
+## About Me  #   <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="40"/>
 
 - 🌱 Currently learning MERN Stack and Data Analytics
 - 💬 Ask me about Frontend, SQL, Excel
