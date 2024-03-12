@@ -19,9 +19,10 @@
 - 📫 Reach me at bijaykoirala003@gmail.com
 - ⚡ Fun fact: Secretly a Spiderman 🕷️
 
+<div align="center">
 ---
-
 - 💡 Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
+</div>
 
 
 ## Connect with Me
