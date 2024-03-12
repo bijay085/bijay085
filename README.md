@@ -28,13 +28,9 @@
 
 ⚡ Fun fact: I am secretly a Spiderman 🕷️
 
-<div align="center" style="font-size: 16px;">
-    💡  Also, you can ask me about tweaks, IPA injection for iOS, and jailbreaking iPhone-related topics.
-  
+💡  Also, you can ask me about tweaks, IPA injection for iOS, and jailbreaking iPhone-related topics.
+
 ---
-</div>
-
-
 ## *Want to make connection*
 
 
