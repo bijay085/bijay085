@@ -5,7 +5,8 @@
   <img src="https://github.com/bijay085/bijay085/assets/107698781/a71e56f3-5a16-4532-ac6d-e28857d06ae8" alt="giphy" width="80"/>  
 </p>
 
-<h1 align="center" style="font-size: 18px;">🌏 Future Data Analyst from Nepal</h1> 
+<h1 align="center" style="font-size: 18px;">![WXfK](https://github.com/bijay085/bijay085/assets/107698781/c1044b84-639c-4b66-8b8f-51e2a1eeb22e | width=28) Future Data Analyst from Nepal ![5UKF](https://github.com/bijay085/bijay085/assets/107698781/e0c082ef-3d33-4279-bfad-9726172a98f4 | width=28)
+</h1> 
 
 ## About Me       <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="30"/>
 
