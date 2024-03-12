@@ -21,7 +21,10 @@
 
 <div align="center">
 ---
-- 💡 Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
+  
+💡 Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
+  
+---
 </div>
 
 
