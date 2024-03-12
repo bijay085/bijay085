@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/a71e56f3-5a16-4532-ac6d-e28857d06ae8" alt="giphy" width="80"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/a71e56f3-5a16-4532-ac6d-e28857d06ae8" alt="giphy" width="80"/>    <img src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="60"/>
+
 </p>
 
 ## <p align="center">🌏 Future Data Analyst from Nepal</p>
