@@ -21,6 +21,7 @@
 - SQL
 - Excel
 - Python
+<br>
   -------------------------------> Always in a learning phase <-------------------------------
   
 **📫 Portfolio:**
