@@ -22,16 +22,23 @@
 - Excel
 - Python
 <br>
+<br>
+<br>
+
 -------------------------------> Always in a learning phase <-------------------------------
 
 **📫 Portfolio:**
 - Email: bijaykoirala003@gmail.com
 <br>
+<br>
+
 -------------------------------> Always in development phase <-------------------------------
  
 **⚡ Fun fact:**
 - Secretly a Spiderman 🕷️
 <br>
+<br>
+
 -------------------------------> Always in the secret phase <-------------------------------
 
 
