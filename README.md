@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Bijay Koirala 🧑‍💻
+<p align="center">
+  <h1>Hi there! 👋 I'm Bijay Koirala 🧑‍💻</h1>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/bijay085/bijay085/assets/107698781/a71e56f3-5a16-4532-ac6d-e28857d06ae8" alt="giphy" width="80"/>
