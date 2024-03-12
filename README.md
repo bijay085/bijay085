@@ -5,8 +5,7 @@
   <img src="https://github.com/bijay085/bijay085/assets/107698781/a71e56f3-5a16-4532-ac6d-e28857d06ae8" alt="giphy" width="80"/>  
 </p>
 
-<h1 align="center" style="font-size: 24px;">🌏 Future Data Analyst from Nepal</h1>
-<p align="center"><img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="50"/></p>
+<h1 align="center" style="font-size: 18px;">🌏 Future Data Analyst from Nepal</h1> align="center"><img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="50"/>
 
 
 
