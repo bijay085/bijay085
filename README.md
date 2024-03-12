@@ -48,14 +48,14 @@ I'm always open to new opportunities and conversations. Let's connect!
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/bijaykoirala085">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
+  <a href="https://linkedin.com/in/bijaykoirala085" style="padding: 5px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <a href="http://discordapp.com/users/1192694890530869369">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50"/>
+  <a href="http://discordapp.com/users/1192694890530869369" style="padding: 5px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50"/>
   </a>
-  <a href="https://instagram.com/bijay_085" > <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijay_085" height="40" width="50" /></a>
+  <a href="https://instagram.com/bijay_085" style="padding: 5px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijay_085" height="40" width="50" />
+  </a>
 </p>
+
 
 ## *Skills and Tools*
 
