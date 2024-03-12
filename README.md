@@ -27,9 +27,7 @@
 
 *Email:* bijaykoirala003@gmail.com
 
-⚡ Fun fact: I am secretly a Spiderman 
-
-<img src="https://github.com/bijay085/bijay085/assets/107698781/d6480fe4-c92b-40f6-bca8-1e9dda1e05fa" width="40">
+⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/4d568ffc-6f80-40d9-8fa0-d8a785048cfc" width="35">
 
 
 ---
@@ -85,7 +83,7 @@ I'm always open to new opportunities and conversations. Let's connect!
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
-    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="35">
+    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="70">
 
 </p>
 
