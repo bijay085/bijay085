@@ -21,29 +21,15 @@
 - SQL
 - Excel
 - Python
-<br>
-<br>
-<br>
-
 -------------------------------> Always in a learning phase <-------------------------------
-
 **📫 Portfolio:**
 - Email: bijaykoirala003@gmail.com
-<br>
-<br>
-
 -------------------------------> Always in development phase <-------------------------------
- 
 **⚡ Fun fact:**
 - Secretly a Spiderman 🕷️
-<br>
-<br>
-
 -------------------------------> Always in the secret phase <-------------------------------
-
-
 <div align="center" style="font-size: 14px;">
-    💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
+    💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.  game
   
 ---
 </div>
