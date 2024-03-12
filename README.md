@@ -16,7 +16,7 @@
 
 ### 🌱 Currently learning MERN Stack and Data Analytics with Python 
 
-*💬 Ask me about:*
+💬*Ask me about:*
 - Frontend
 - SQL
 - Excel
@@ -41,13 +41,13 @@ bijaykoirala0.com.np
 *Always in the secret phase*
 
 <div align="center" style="font-size: 16px;">
-    💡  Also, you can ask me about tweaks, IPA injection for iOS, and iPhone-related topics.
+    💡  Also, you can ask me about tweaks, IPA injection for iOS, and jailbreaking iPhone-related topics.
   
 ---
 </div>
 
 
-## Connect with Me
+## *Connect with Me*
 
 <p align="center">
   <a href="https://linkedin.com/in/bijaykoirala085">
@@ -58,7 +58,7 @@ bijaykoirala0.com.np
   </a>
 </p>
 
-## Skills and Tools
+## *Skills and Tools*
 
 <p align="center">
 
@@ -88,7 +88,7 @@ bijaykoirala0.com.np
 </p>
 
 
-## GitHub Stats
+## *GitHub Stats*
 
 <div style="display: flex; justify-content: space-between;">
   <p>
@@ -109,5 +109,5 @@ bijaykoirala0.com.np
 ---
 
 <p align="center" style="font-size: 16px;">
-  Made with ❤️ by Bijay Koirala
+###  Made with ❤️ by Bijay Koirala
 </p>
