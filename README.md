@@ -23,14 +23,9 @@
 - Python
 
 *Portfolio* : [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
-
 *Email:* bijaykoirala003@gmail.com
----
-**⚡ Fun fact:**
-- I am secretly a Spiderman 🕷️
 
-*Always in the secret phase*
-
+*⚡ Fun fact:* I am secretly a Spiderman 🕷️
 
 <div align="center" style="font-size: 16px;">
     💡  Also, you can ask me about tweaks, IPA injection for iOS, and jailbreaking iPhone-related topics.
