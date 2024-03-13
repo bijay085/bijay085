@@ -1,8 +1,7 @@
 <h1 align="center">Hi there! <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Z3zH" width="45"/> I'm Bijay Koirala 🧑‍💻</h1>
 
-
 <p align="center">
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/a71e56f3-5a16-4532-ac6d-e28857d06ae8" alt="giphy" width="80"/>  
+ <img src="https://github.com/bijay085/bijay085/assets/107698781/a2f5d1f9-b1a0-45f1-bdd5-3092abae84fe" alt="giphy" width="80"/>  
 </p>
 
 <h1 align="center" style="font-size: 18px;">
