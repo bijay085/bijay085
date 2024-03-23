@@ -25,8 +25,7 @@
 
 *Email:* bijaykoirala003@gmail.com
 
-⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/4d568ffc-6f80-40d9-8fa0-d8a785048cfc" width="37" style= "margin: 20px"/>
-
+⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/4d568ffc-6f80-40d9-8fa0-d8a785048cfc" width="37" style="margin: 20px"align="top" />
 
 ---
 ## 💬 *What I am good at* : *Why you should contact me*  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="30" height="30" />
