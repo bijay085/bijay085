@@ -79,13 +79,22 @@
 
 ## *GitHub Stats*
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" alt="GitHub Streak" width="400"/>
+<div style="display: flex; justify-content: space-between;">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" alt="bijay085" width="390" style="padding: 60px" />
+  </p>
+
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" alt="bijay085" width="410" />
+  </p>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" width="800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" alt="GitHub Streak" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />
 </p>
 
 ---
@@ -93,9 +102,7 @@
 ## 😂 Fun Fact:
 
 <p align="center">
-I forget syntax every time 😅 <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50" height="50"/>
- 
-`World(Print"olleH")`  <img src="https://media.giphy.com/media/10DhYj0GGhL9tm/giphy.gif" width="50" height="50"/>
+I forget syntax every time 😅 <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50" height="50"/> `World(Print"olleH")`  <img src="https://media.giphy.com/media/10DhYj0GGhL9tm/giphy.gif" width="50" height="50"/>
 </p>
 
 ---
