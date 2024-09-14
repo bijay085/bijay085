@@ -28,6 +28,9 @@
 
 ⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/2882e474-f9db-4b97-8003-32940718b5b2" alt="spiderman" width="37" style="margin: 20px" />
 
+😂 Another Fun Fact: I forget syntax every time.  
+**Example**: `World(Print"olleH")`
+
 ---
 
 ## 💻 *What I Do* 💻
@@ -71,6 +74,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="padding: 15px"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineering-4285F4?style=for-the-badge&logo=openai&logoColor=white" alt="gpt_prompt_engineering" width="90" height="50" />
+  </a>
 </p>
 
 ---
@@ -92,11 +98,16 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bijay085&theme=rogue" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />
 </p>
 
 ---
 
 <p align="center" style="font-size: 16px;">
     Made with ❤️ by Bijay Koirala   <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="40">
+</p>
+
+<p align="center">
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/7ca675b6-9fae-4c63-9476-4d914ad587e8" width="60" height="60" alt="cute-round-gif" />
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/c9fbb394-0913-4663-9634-f2834d6ae981" width="60" height="60" alt="cute-round-gif-2" />
 </p>
