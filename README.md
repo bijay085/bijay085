@@ -4,16 +4,17 @@
  <img src="https://github.com/bijay085/bijay085/assets/107698781/a2f5d1f9-b1a0-45f1-bdd5-3092abae84fe" alt="giphy" width="80"/>  
 </p>
 
-<h1 align="center" style="font-size: 18px;">
+<h1 align="center" style="font-size: 18px; background: -webkit-linear-gradient(#eee, #333); -webkit-background-clip: text; color: transparent;">
   <img src="https://github.com/bijay085/bijay085/assets/107698781/c1044b84-639c-4b66-8b8f-51e2a1eeb22e" alt="WXfK" width="50" height="50"/>
   Future Data Analyst from Nepal
   <img src="https://github.com/bijay085/bijay085/assets/107698781/e0c082ef-3d33-4279-bfad-9726172a98f4" alt="5UKF" width="50" height="50"/>
 </h1>
 
+---
+
 ##  <img src="https://github.com/bijay085/bijay085/assets/107698781/22559ad1-4aa8-4dd0-be80-8e869079f0c7" width="35" />  About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="40" height="40"/>
 
 ### 🌱 Currently learning MERN Stack and Data Analytics with Python <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b78f4395-5dd6-4e1f-aa98-7146714581ae" alt="sideduck" width="35" height="35" style="margin: 20px"/>
-
 
 💬*Ask me about:*
 - Frontend
@@ -28,6 +29,7 @@
 ⚡ Fun fact: I am secretly a Spiderman   <img src="https://github.com/bijay085/bijay085/assets/107698781/2882e474-f9db-4b97-8003-32940718b5b2" alt="spiderman" width="37" style="margin: 20px" />
 
 ---
+
 ## 💬 *What I am good at* : *Why you should contact me*  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="30" height="30" />
 
 ### Feel free to get in touch if you:
@@ -41,8 +43,9 @@
 
 I'm always open to new opportunities and conversations. Let's connect!
 
-## *Want to make connection*
+---
 
+## *Want to make connection*
 
 <p align="center">
   <a href="https://linkedin.com/in/bijaykoirala085" style="padding: 10px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
@@ -54,13 +57,14 @@ I'm always open to new opportunities and conversations. Let's connect!
   <img src="https://github.com/bijay085/bijay085/assets/107698781/cef208be-0fad-4b3f-b246-dcfb29066b4d" width="60" height="60" />
 </p>
 
+---
 
 ## *Skills and Tools*
 
 <p align="center">
-
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/181600ef-bdaa-488e-ab42-5f56b4f9a9ca" alt="WME8" width="90" height="120" style="padding: 15px"/>
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="animation: pulsate 2s infinite;"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="padding: 15px"/>
   </a>
@@ -79,13 +83,9 @@ I'm always open to new opportunities and conversations. Let's connect!
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="padding: 15px"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"s tyle="padding: 15px"/>
-  </a>
-    <img src="https://github.com/bijay085/bijay085/assets/107698781/49ca7864-68b3-411c-b3af-ffeefc27ddeb" width="140" style="padding: 15px"/>
-
 </p>
 
+---
 
 ## *GitHub Stats*
 
@@ -103,11 +103,12 @@ I'm always open to new opportunities and conversations. Let's connect!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" alt="GitHub Streak" width="420"/>
 </p>
 
-
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bijay085&theme=rogue" alt="Contribution Graph"/>
+</p>
 
 ---
 
 <p align="center" style="font-size: 16px;">
-    Made with ❤️ by Bijay Koirala   <img allign="top" src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="40">
-
+    Made with ❤️ by Bijay Koirala   <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="40">
 </p>
