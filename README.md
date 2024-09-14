@@ -1,18 +1,18 @@
-<h1 align="center">Hi there! <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="Z3zH" width="45"/> I'm Bijay Koirala 🧑‍💻</h1>
+<h1 align="center">Hi there! <img src="https://github.com/bijay085/bijay085/assets/107698781/e06089b9-5686-4b99-b825-432e89f1f98e" alt="wave" width="45"/> I'm Bijay Koirala 🧑‍💻</h1>
 
 <p align="center">
  <img src="https://github.com/bijay085/bijay085/assets/107698781/a2f5d1f9-b1a0-45f1-bdd5-3092abae84fe" alt="giphy" width="80"/>  
 </p>
 
 <h1 align="center" style="font-size: 18px; background: -webkit-linear-gradient(#eee, #333); -webkit-background-clip: text; color: transparent;">
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/c1044b84-639c-4b66-8b8f-51e2a1eeb22e" alt="WXfK" width="50" height="50"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/c1044b84-639c-4b66-8b8f-51e2a1eeb22e" alt="futurenepal" width="50" height="50"/>
   Future Data Analyst from Nepal
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/e0c082ef-3d33-4279-bfad-9726172a98f4" alt="5UKF" width="50" height="50"/>
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/e0c082ef-3d33-4279-bfad-9726172a98f4" alt="futurenepal" width="50" height="50"/>
 </h1>
 
 ---
 
-##  <img src="https://github.com/bijay085/bijay085/assets/107698781/22559ad1-4aa8-4dd0-be80-8e869079f0c7" width="35" />  About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="YQDj" width="40" height="40"/>
+##  <img src="https://github.com/bijay085/bijay085/assets/107698781/22559ad1-4aa8-4dd0-be80-8e869079f0c7" width="35" />  About Me <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="aboutme" width="40" height="40"/>
 
 ### 🌱 Currently learning MERN Stack and Data Analytics with Python <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b78f4395-5dd6-4e1f-aa98-7146714581ae" alt="sideduck" width="35" height="35" style="margin: 20px"/>
 
@@ -30,36 +30,24 @@
 
 ---
 
-## 💬 *What I am good at* : *Why you should contact me*  <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="30" height="30" />
+## 💻 *What I Do* 💻
 
-### Feel free to get in touch if you:
+### 🤖 **Bots I've Created**:
+- **Discord Bots**:
+  - 🛠️ **Management Bot**: Helps streamline server operations.
+  - 🎁 **Reward Bot**: Automates reward distribution for events or tasks.
+  
+- **Telegram Bot**:
+  - 🎉 **Giveaway Bot**: Runs seamless giveaways, handles entries, and picks winners.
 
-- Have questions about my projects.
-- Want to collaborate on a project.
-- Need assistance with Discord bot development.
-- Want to develop basic websites.
-- Seek advice on iOS jailbreaking and iPa.
-- Just want to chat or share ideas!
-
-I'm always open to new opportunities and conversations. Let's connect!
-
----
-
-## *Want to make connection*
-
-<p align="center">
-  <a href="https://linkedin.com/in/bijaykoirala085" style="padding: 10px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
-  </a>
-  <a href="http://discordapp.com/users/1192694890530869369" style="padding: 10px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50"/>
-  </a>
-  <a href="https://instagram.com/bijay_085" style="padding: 10px"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijay_085" height="40" width="50" />
-  </a>
-  <img src="https://github.com/bijay085/bijay085/assets/107698781/cef208be-0fad-4b3f-b246-dcfb29066b4d" width="60" height="60" />
-</p>
+### 🔐 **Miscellaneous Tools**:
+- **Netflix Cookie Checker** 🍿
+- **Prime Video Cookie Checker** 🎬
+- **Spotify Cookie Checker** 🎧
 
 ---
 
-## *Skills and Tools*
+## *Skills and Tools* <img align="top" src="https://github.com/bijay085/bijay085/assets/107698781/b0cee957-ebf0-4bdc-9889-95736f32f49b" width="30" height="30"/>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
