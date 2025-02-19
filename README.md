@@ -19,6 +19,8 @@
 💬 *Ask me about*:
 - Frontend
 - Python
+- Web scarpiscraping 
+- Parsing
 - Excel
 - SQL
 - Bots
@@ -43,6 +45,9 @@
 - **Netflix Cookie Checker** 🍿
 - **Prime Video Cookie Checker** 🎬
 - **Spotify Cookie Checker** 🎧
+- **Chatgpt Cookie Checker** 💬
+- **Hotstar Cookie Checker** 📺
+- **Web scrapping & parsing** ⚒️
 
 ---
 
