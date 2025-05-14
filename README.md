@@ -19,9 +19,9 @@
 - 🛌  Perpetual learner (and aspiring sleep master).
 ```
 
-📬 **Reach me at**: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)  
-🌍 **Portfolio**: [bijaykoirala0.com.np](https://bijaykoirala0.com.np)  
-💼 **LinkedIn**: [Bijay Koirala](https://www.linkedin.com/in/bijay-koirala/)  
+📬 **Reach me at**: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)   
+🌍 **Portfolio**: [bijaykoirala0.com.np](https://bijaykoirala0.com.np)   
+💼 **LinkedIn**: [Bijay Koirala](https://www.linkedin.com/in/bijay-koirala/)   
 
 ---
 
@@ -35,12 +35,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-  <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineer-4285F4?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineer-4285F4?style=for-the-badge&logo=openai&logoColor=white" height="28"/>  
 </p>  
 
 ---
 
-## 📦 Projects I’ve Built
+## 📦 Projects I’ve Built  
 
 1. 🛠️ **API/Web Scraping Tools**:  
    └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.  
