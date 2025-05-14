@@ -37,6 +37,8 @@
 
 ### 🛠️ 12+ Site API & Web Scraping Tools
 Includes Netflix, ChatGPT, Outlook, Hotstar, etc.  
+|-- Netflix, ChatGPT, Outlook, Hotstar, etc.
+|-- (Private – no public demo available for ethical/privacy reasons)
 _*(Private – no public demo available for ethical/privacy reasons)*_
 
 ### 🤖 Telegram Bots, Discord Bots, Automation Tools
