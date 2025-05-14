@@ -47,11 +47,11 @@
 
 2. 🤖 Bots & Automation:  
    └─ Created Telegram and Discord bots for seamless automation.  
-      🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)  
+       └─ 🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)  
 
 3. 🌐 CMS Website:  
    └─ 🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)  
-      💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)  
+       └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)  
 
 4. 🎓 Gamified Learning Tracker:  
    └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)  
