@@ -42,19 +42,19 @@
 
 ## 📦 Projects I’ve Built
 
-1. 🛠️ API/Web Scraping Tools:
-   └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.
+1. 🛠️ API/Web Scraping Tools:  
+   └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.  
 
-2. 🤖 Bots & Automation:
-   └─ Created Telegram and Discord bots for seamless automation.
-      🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)
+2. 🤖 Bots & Automation:  
+   └─ Created Telegram and Discord bots for seamless automation.  
+      🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)  
 
-3. 🌐 CMS Website:
-   └─ 🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)
-      💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)
+3. 🌐 CMS Website:  
+   └─ 🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)  
+      💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)  
 
-4. 🎓 Gamified Learning Tracker:
-   └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)
+4. 🎓 Gamified Learning Tracker:  
+   └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)  
 
 ---
 
