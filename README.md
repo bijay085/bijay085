@@ -14,52 +14,52 @@
 
 ---
 
-## <img src="https://github.com/bijay085/bijay085/assets/107698781/22559ad1-4aa8-4dd0-be80-8e869079f0c7" width="35" alt="about icon"/> About Me <img src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="about me" width="40" height="40"/>
+## 🔍 About Me
 
 ### 🌱 Currently learning how to sleep 🛌
 
-💬 *Ask me about*:
-- Python
-- Web Scraping & Parsing
-- Site Analysis
-- Bots
-- Excel
-- Power BI
-- Frontend
-- AI Prompts
+### 💬 Ask me about:
+- 🧠 Python
+- 🌐 Web Scraping & Parsing
+- 🧮 Site Analysis
+- 🤖 Bots
+- 📊 Excel
+- 📈 Power BI
+- 🎨 Frontend
+- ✍️ AI Prompts
 
-📢 *Email*: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)
-
-🌐 *Portfolio*: [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
+📧 **Email**: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)  
+🌍 **Portfolio**: [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
 
 ---
 
 ## 💻 What I've Built
 
-- 🔗 **12+ Site API & Web Scraping Tools**  
-  _Netflix, ChatGPT, Outlook, Hotstar, etc._  
-  *(Private – no public demo available for ethical/privacy reasons)*
+### 🛠️ 12+ Site API & Web Scraping Tools
+Includes Netflix, ChatGPT, Outlook, Hotstar, etc.  
+_*(Private – no public demo available for ethical/privacy reasons)*_
 
-- 🤖 **Telegram Bots, Discord Bots, Automation Tools**  
-  🔗 [Source Code for Bots](https://github.com/bijay085/Projects/tree/master/Bots)
-
----
-
-### 🚀 Projects
-
-- 🌐 **CMS Site**  
-  🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/) | [Source Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)
-
-- 🎓 **Gamified Learning Progress Tracker**  
-  🔗 [Source Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)
+### 🤖 Telegram Bots, Discord Bots, Automation Tools
+🔗 [Source Code for Bots](https://github.com/bijay085/Projects/tree/master/Bots)
 
 ---
 
-> 🛠️ _All built using: **Python, HTML, CSS, PHP, JavaScript, JSON, MongoDB**_
+## 🚀 Projects
+
+### 🌐 CMS Site  
+🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)  
+💾 [Source Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)
+
+### 🎓 Gamified Learning Progress Tracker  
+💾 [Source Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)
 
 ---
 
-## 🛠️ Skills and Tools
+> ⚙️ *All built using:* **Python, HTML, CSS, PHP, JavaScript, JSON, MongoDB**
+
+---
+
+## 🧰 Skills & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
@@ -78,13 +78,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="390" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="390" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="410" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="410" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="420" alt="GitHub Streak" />
-
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="420" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />
 
@@ -96,8 +94,10 @@
 
 <p align="center">
   I forget syntax every time 😅  
-  <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50"/>  
+  <br/>
   `World(Print"olleH")`  
+  <br/>
+  <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50"/> 
   <img src="https://media.giphy.com/media/10DhYj0GGhL9tm/giphy.gif" width="50"/>
 </p>
 
@@ -105,5 +105,6 @@
 
 <p align="center">
   Made with ❤️ by Bijay Koirala  
+  <br/>
   <img src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="40"/>
 </p>
