@@ -16,7 +16,7 @@
 
 ## <img src="https://github.com/bijay085/bijay085/assets/107698781/22559ad1-4aa8-4dd0-be80-8e869079f0c7" width="35" alt="about icon"/> About Me <img src="https://github.com/bijay085/bijay085/assets/107698781/3e56b2ec-37b5-4f56-804c-194e0137cade" alt="about me" width="40" height="40"/>
 
-### 🌱 Currently learning how to sleep 😴
+### 🌱 Currently learning how to sleep 🛌
 
 💬 *Ask me about*:
 - Python
@@ -28,7 +28,7 @@
 - Frontend
 - AI Prompts
 
-📫 *Email*: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)
+📢 *Email*: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)
 
 🌐 *Portfolio*: [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
 
@@ -42,7 +42,60 @@
 - **Telegram bots, Discord bots, Automation tools**  
   🔗 [Source Code for Bots](https://github.com/bijay085/Projects/tree/master/Bots)
 
+- **CMS Site**  
+  🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/) | [Source Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)
+
+- **Gamified Learning Progress Tracker**  
+  🔗 [Source Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)
+
+> **All built using**: Python, HTML, CSS, PHP, JavaScript, JSON, and MongoDB
+
 ---
 
-## 🚀 Projects
+## 🛠️ Skills and Tools
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git"/>
+  <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineer-4285F4?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="390" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="410" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bijay085&theme=rogue" />
+</p>
+
+---
+
+## 😂 Fun Fact
+
+<p align="center">
+  I forget syntax every time 😅  
+  <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50"/>  
+  `World(Print"olleH")`  
+  <img src="https://media.giphy.com/media/10DhYj0GGhL9tm/giphy.gif" width="50"/>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Bijay Koirala  
+  <img src="https://github.com/bijay085/bijay085/assets/107698781/550c345f-7905-4bd6-a3d0-ab5f9588cd7a" width="40"/>
+</p>
