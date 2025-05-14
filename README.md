@@ -20,7 +20,7 @@
 ```
 
 📬 **Reach me at**: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)  
-🌍 **Portfolio**: [bijaykoirala0.com.np](https://bijaykoirala0.com.np)
+🌍 **Portfolio**: [bijaykoirala0.com.np](https://bijaykoirala0.com.np)  
 💼 **LinkedIn**: [Bijay Koirala](https://www.linkedin.com/in/bijay-koirala/)  
 
 ---
@@ -44,17 +44,21 @@
 
 1. 🛠️ API/Web Scraping Tools:  
    └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.  
+       These tools automate data extraction and interaction with APIs for enhanced productivity.
 
 2. 🤖 Bots & Automation:  
    └─ Created Telegram and Discord bots for seamless automation.  
        └─ 🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)  
+       These bots handle repetitive tasks, notifications, and user interactions efficiently.
 
 3. 🌐 CMS Website:  
    └─ 🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)  
        └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)  
+       A content management system designed for easy website creation and management.
 
 4. 🎓 Gamified Learning Tracker:  
    └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)  
+       A tool to track learning progress with gamification elements to boost motivation.
 
 ---
 
@@ -62,13 +66,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="370" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="370" alt="Top Languages" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="390" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="390" alt="GitHub Stats" />  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="400" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="400" alt="GitHub Streak" />  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />  
 
 </div>
 
@@ -76,8 +80,13 @@
 
 ## 🤯 Fun Debug Logs
 
+```python
 # Guess what? I forget syntax every time 😅
-hello(syntax)
+def hello(syntax="world"):
+    print(f"Hello, {syntax}!")
+
+hello()  # Output: Hello, world!
+```
 
 <p align="center">
   <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50"/> 
