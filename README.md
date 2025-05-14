@@ -42,7 +42,6 @@
 
 ## 📦 Projects I’ve Built
 
-```markdown
 1. 🛠️ API/Web Scraping Tools:
    └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.
 
@@ -56,7 +55,6 @@
 
 4. 🎓 Gamified Learning Tracker:
    └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)
-```
 
 ---
 
