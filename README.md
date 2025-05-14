@@ -36,19 +36,26 @@
 
 ## 💻 What I've Built
 
-- **12+ site API and web scraping tools** including Netflix, ChatGPT, Outlook, Hotstar  
+- 🔗 **12+ Site API & Web Scraping Tools**  
+  _Netflix, ChatGPT, Outlook, Hotstar, etc._  
   *(Private – no public demo available for ethical/privacy reasons)*
 
-- **Telegram bots, Discord bots, Automation tools**  
+- 🤖 **Telegram Bots, Discord Bots, Automation Tools**  
   🔗 [Source Code for Bots](https://github.com/bijay085/Projects/tree/master/Bots)
 
-- **CMS Site**  
+---
+
+### 🚀 Projects
+
+- 🌐 **CMS Site**  
   🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/) | [Source Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)
 
-- **Gamified Learning Progress Tracker**  
+- 🎓 **Gamified Learning Progress Tracker**  
   🔗 [Source Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)
 
-> **All built using**: Python, HTML, CSS, PHP, JavaScript, JSON, and MongoDB
+---
+
+> 🛠️ _All built using: **Python, HTML, CSS, PHP, JavaScript, JSON, MongoDB**_
 
 ---
 
