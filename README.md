@@ -36,10 +36,8 @@
 ## 💻 What I've Built
 
 ### 🛠️ 12+ Site API & Web Scraping Tools
-Includes Netflix, ChatGPT, Outlook, Hotstar, etc.  
-|-- Netflix, ChatGPT, Outlook, Hotstar, etc.
-|-- (Private – no public demo available for ethical/privacy reasons)
-_*(Private – no public demo available for ethical/privacy reasons)*_
+|-- Netflix, ChatGPT, Outlook, Hotstar, etc.  
+|-- *(Private – no public demo available for ethical/privacy reasons)*_
 
 ### 🤖 Telegram Bots, Discord Bots, Automation Tools
 🔗 [Source Code for Bots](https://github.com/bijay085/Projects/tree/master/Bots)
