@@ -27,9 +27,8 @@
 
 ## 🌳 My Toolbox
 
-```markdown
-🛠️ Languages & Tools:
 
+🛠️ Languages & Tools:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
@@ -41,7 +40,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
   <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineer-4285F4?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
 </p>
-```
+
 ---
 
 ## 📦 Projects I’ve Built
