@@ -77,17 +77,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="390" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="410" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="390" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="410" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="420" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />
+
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bijay085&theme=rogue" />
-</p>
 
 ---
 
