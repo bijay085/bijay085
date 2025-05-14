@@ -82,10 +82,8 @@
 
 ## 🤯 Fun Debug Logs
 
-```python
 # Guess what? I forget syntax every time 😅
-print("Hello World"[::-1])  # dlroW olleH
-```
+hello(syntax)
 
 <p align="center">
   <img src="https://media.giphy.com/media/TLjn42M7DPVQGdxfIr/giphy.gif" width="50"/> 
