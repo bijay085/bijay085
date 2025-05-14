@@ -13,7 +13,7 @@
 ```yaml
 - 🤖  Automation enthusiast with a knack for simplifying workflows.
 - 🌐  Full-stack developer exploring the depths of web technologies.
-- 🕸️  Ethical web scraper and site optimizer.
+- 🕸️  Web scraper and site optimizer.
 - 📊  Data wizard: Excel, Power BI, and beyond.
 - 🧠  AI explorer and prompt engineering aficionado.
 - 🛌  Perpetual learner (and aspiring sleep master).
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌳 My Toolbox🛠️ 
+## 🌳 My Toolbox 🛠️ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
@@ -36,29 +36,36 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
   <img src="https://img.shields.io/badge/GPT%20Prompt%20Engineer-4285F4?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-</p>
+</p>  
 
 ---
 
 ## 📦 Projects I’ve Built
 
-1. 🛠️ API/Web Scraping Tools:  
+1. 🛠️ **API/Web Scraping Tools**:  
    └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.  
-       These tools automate data extraction and interaction with APIs for enhanced productivity.
+        └─ These tools automate data extraction and interaction with APIs for enhanced productivity.
 
-2. 🤖 Bots & Automation:  
+2. 🤖 **Bots & Automation**:  
    └─ Created Telegram and Discord bots for seamless automation.  
        └─ 🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)  
-       These bots handle repetitive tasks, notifications, and user interactions efficiently.
+        └─ These bots handle repetitive tasks, notifications, and user interactions efficiently.
 
-3. 🌐 CMS Website:  
+3. 🌐 **CMS Website**:  
    └─ 🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)  
        └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)  
-       A content management system designed for easy website creation and management.
+        └─ A content management system designed for easy website creation and management.
 
-4. 🎓 Gamified Learning Tracker:  
+4. 🎓 **Gamified Learning Tracker**:  
    └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)  
-       A tool to track learning progress with gamification elements to boost motivation.
+        └─ A tool to track learning progress with gamification elements to boost motivation.
+
+---
+
+## 🎨 Hobbies & Interests
+
+- 🎮 Gaming: Fighting games like wwe.  
+- 💤 Sleeping: I can sleep 48hrs a day.   
 
 ---
 
@@ -75,6 +82,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />  
 
 </div>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:bijaykoirala003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/bijay-koirala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/bijay085"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
