@@ -43,28 +43,28 @@
 ## 📦 Projects I’ve Built  
 
 1. 🛠️ **API/Web Scraping Tools**:  
-   └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.  
+   └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.   
         └─ These tools automate data extraction and interaction with APIs for enhanced productivity.
 
 2. 🤖 **Bots & Automation**:  
    └─ Created Telegram and Discord bots for seamless automation.  
-       └─ 🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)  
+       └─ 🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)   
         └─ These bots handle repetitive tasks, notifications, and user interactions efficiently.
 
 3. 🌐 **CMS Website**:  
-   └─ 🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)  
-       └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)  
+   └─ 🔗 [Live Demo](https://flamemodparadise.github.io/My-Site/)   
+       └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/CMS%20Site)   
         └─ A content management system designed for easy website creation and management.
 
 4. 🎓 **Gamified Learning Tracker**:  
-   └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)  
+   └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)   
         └─ A tool to track learning progress with gamification elements to boost motivation.
 
 ---
 
 ## 🎨 Hobbies & Interests
 
-- 🎮 Gaming: Fighting games like wwe.  
+- 🎮 Gaming: Fighting games like wwe.   
 - 💤 Sleeping: I can sleep 48hrs a day.   
 
 ---
