@@ -25,10 +25,7 @@
 
 ---
 
-## 🌳 My Toolbox
-
-
-🛠️ Languages & Tools:
+## 🌳 My Toolbox🛠️ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
