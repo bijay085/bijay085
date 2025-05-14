@@ -1,4 +1,3 @@
-
 <h1 align="center">
   🌳 Hey there! I'm <span style="color:#00ADB5;">Bijay Koirala</span> 🧑‍💻
 </h1>
@@ -9,19 +8,20 @@
 
 ---
 
-## 🌱 Who Am I?
+## 🌱 About Me
 
 ```yaml
-- 🤖  Automation lover
-- 🌐  Full-stack experimenter
-- 🕸️  Web scraper, site hacker (ethically 😉)
-- 📊  Data enthusiast: Excel + Power BI
-- 🧠  Prompt Engineer & AI explorer
-- 🛌  Still trying to master the art of sleep...
+- 🤖  Automation enthusiast with a knack for simplifying workflows.
+- 🌐  Full-stack developer exploring the depths of web technologies.
+- 🕸️  Ethical web scraper and site optimizer.
+- 📊  Data wizard: Excel, Power BI, and beyond.
+- 🧠  AI explorer and prompt engineering aficionado.
+- 🛌  Perpetual learner (and aspiring sleep master).
 ```
 
 📬 **Reach me at**: [bijaykoirala003@gmail.com](mailto:bijaykoirala003@gmail.com)  
-🌍 **Portfolio**: [bijaykoirala0.com.np](https://bijaykoirala0.com.np/?i=1)
+🌍 **Portfolio**: [bijaykoirala0.com.np](https://bijaykoirala0.com.np)
+💼 **LinkedIn**: [Bijay Koirala](https://www.linkedin.com/in/bijay-koirala/)  
 
 ---
 
@@ -44,14 +44,14 @@
 
 ---
 
-## 📦 Projects I’ve Cultivated
+## 📦 Projects I’ve Built
 
 ```markdown
 1. 🛠️ API/Web Scraping Tools:
-   └─ 12+ private tools for Netflix, Outlook, ChatGPT, and more.
+   └─ Developed 12+ private tools for platforms like Netflix, Outlook, ChatGPT, and more.
 
 2. 🤖 Bots & Automation:
-   └─ Telegram Bots, Discord Bots & background automation
+   └─ Created Telegram and Discord bots for seamless automation.
       🔗 [Bot Source Code](https://github.com/bijay085/Projects/tree/master/Bots)
 
 3. 🌐 CMS Website:
@@ -64,15 +64,15 @@
 
 ---
 
-## 📊 GitHub Branches of My Progress
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="370" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay085&show_icons=true&locale=en&layout=compact&theme=radical" width="370" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="390" />
+<img src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&locale=en&theme=radical" width="390" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bijay085&theme=radical" width="400" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&theme=rogue" alt="Contribution Graph" />
 
@@ -84,7 +84,7 @@
 
 ```python
 # Guess what? I forget syntax every time 😅
-print("Hello World"[::-1])  # olleH
+print("Hello World"[::-1])  # dlroW olleH
 ```
 
 <p align="center">
