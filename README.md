@@ -50,7 +50,7 @@ class BijayKoirala:
     def skills(self):
         return {
             'languages': ['Python', 'JavaScript', 'HTML', 'CSS'],
-            'frameworks': ['Flask', 'React Basics'],
+            'frameworks': ['Flask'],
             'databases': ['MySQL', 'MongoDB'],
             'automation': ['Web Scraping', 'Selenium', 'BeautifulSoup'],
             'specialties': ['Bot Development', 'API Integration', 'Data Analysis'],
