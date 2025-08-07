@@ -29,9 +29,9 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class BijayKoirala:
@@ -73,7 +73,7 @@ print(me)
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
@@ -115,7 +115,7 @@ print(me)
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
 <div align="center">
 <table>
@@ -124,7 +124,7 @@ print(me)
 
 <h3 align="center">🛠️ API/Web Scraping Suite</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="200" alt="API Tools"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="API Tools"/>
 <p>
 <br>
 <strong>12+ Private Automation Tools</strong><br>
@@ -141,7 +141,7 @@ Netflix, Outlook, ChatGPT & more<br>
 
 <h3 align="center">🤖 Bot Ecosystem</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Bots"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Bots"/>
 <p>
 <br>
 <strong>Telegram & Discord Bots</strong><br>
@@ -160,7 +160,7 @@ Workflow automation & user interaction<br>
 
 <h3 align="center">🌐 CMS Platform</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="CMS"/>
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100" alt="CMS"/>
 <p>
 <br>
 <strong>Content Management System</strong><br>
@@ -180,7 +180,7 @@ Full-featured web platform<br>
 
 <h3 align="center">🛡️ FraudShield System</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Security"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Security"/>
 <p>
 <br>
 <strong>E-commerce Fraud Detection</strong><br>
@@ -197,7 +197,7 @@ Rule-based transaction monitoring<br>
 
 <h3 align="center">🎮 Gamified Learning Tracker</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200" alt="Gamification"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100" alt="Gamification"/>
 <p>
 <strong>Interactive Progress Tracking</strong><br>
 Gamification elements for motivation<br>
@@ -212,7 +212,7 @@ Gamification elements for motivation<br>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bijay085&show_icons=true&count_private=true&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=c9d1d9&bg_color=0d1117" alt="Bijay Koirala github stats" /> 
@@ -240,7 +240,7 @@ Gamification elements for motivation<br>
 ## 🎮 When I'm Not Coding
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Gaming"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Gaming"/>
   
   ### My Interests:
   - 🎮 **Gaming**: WWE & Fighting games enthusiast
@@ -282,7 +282,7 @@ Gamification elements for motivation<br>
 ## 📬 Let's Connect!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="300" alt="Fire Coding"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Fire Coding"/>
   
   <h3>I'm always excited to connect with fellow developers!</h3>
   
