@@ -59,6 +59,10 @@
 4. 🎓 **Gamified Learning Tracker**:  
    └─ 💾 [Code](https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker)   
         └─ A tool to track learning progress with gamification elements to boost motivation.
+   
+5. 🎓 **FraudShield System**:  
+   └─ 💾 [Code](https://github.com/bijay085/College-Project)   
+        └─ A rule based system without ML to track whether the transaction is supscious or clean in ecommerce site.
 
 ---
 
