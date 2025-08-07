@@ -82,6 +82,7 @@ print(me)
 
 ## 🔥 Current Focus
 
+<div align="center">
 <table width="100%" cellspacing="0" cellpadding="20">
   <tr>
     <td width="25%" valign="top">
@@ -122,11 +123,13 @@ print(me)
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
+<div align="center">
 <table width="100%" cellpadding="15">
   <tr>
     <td width="25%" valign="top">
@@ -160,6 +163,7 @@ print(me)
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
