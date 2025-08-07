@@ -84,7 +84,7 @@ print(me)
 
 <table width="100%" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="33.33%" valign="top">
+    <td width="25%" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200" alt="Learning">
       <h2>🎯 Learning</h2>
       <ul>
@@ -93,7 +93,7 @@ print(me)
         <li>Cloud Technologies</li>
       </ul>
     </td>
-    <td width="33.33%" valign="top">
+    <td width="25%" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200" alt="Building">
       <h2>⚡ Building</h2>
       <ul>
@@ -102,13 +102,22 @@ print(me)
         <li>AI-powered Tools</li>
       </ul>
     </td>
-    <td width="33.34%" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" alt="Exploring">
+    <td width="25%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" height="150" alt="Exploring">
       <h2>🚀 Exploring</h2>
       <ul>
         <li>Web3 Technologies</li>
         <li>DevOps Practices</li>
         <li>System Architecture</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="180" height="150" alt="Optimizing">
+      <h2>🔧 Optimizing</h2>
+      <ul>
+        <li>Code Performance</li>
+        <li>Database Queries</li>
+        <li>Workflow Efficiency</li>
       </ul>
     </td>
   </tr>
@@ -464,7 +473,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   <table>
     <tr>
       <td>🧠</td>
-      <td>I debug code in my dreams (literally!)</td>
+      <td>I debug code in my dreams (J-K!)</td>
     </tr>
     <tr>
       <td>⌨️</td>
@@ -476,11 +485,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
     </tr>
     <tr>
       <td>☕</td>
-      <td>My code runs on coffee and determination</td>
-    </tr>
-    <tr>
-      <td>🎮</td>
-      <td>WWE games are my stress relief therapy</td>
+      <td>My code runs on milk and determination</td>
     </tr>
     <tr>
       <td>😴</td>
@@ -502,10 +507,10 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   
   <h3>My Interests:</h3>
   <div align="left" style="display: inline-block;">
-    🎮 <b>Gaming:</b> WWE & Fighting games enthusiast<br>
-    😴 <b>Professional Sleeper:</b> Can sleep 48hrs/day (if physics allowed)<br>
-    🍕 <b>Food:</b> Coffee-powered developer<br>
-    🎵 <b>Music:</b> Coding with beats
+    🎮 <b>Gaming:</b> Fighting games enthusiast<br>
+    😴 <b>Professional Sleeper:</b> Can sleep 48hrs/day (if allowed)<br>
+    🍕 <b>Food:</b> Fast Food-powered developer<br>
+    🎵 <b>Anime:</b> Watching cartoon 
   </div>
 </div>
 
@@ -526,7 +531,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 ## 💻 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img height="160" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
