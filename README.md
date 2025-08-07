@@ -165,7 +165,9 @@ print(me)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
+<div align="center">
 <!-- Row 1: 3 Projects -->
+
 <table width="100%" cellspacing="0" cellpadding="20">
   <tr>
     <td width="33.33%" valign="top">
@@ -284,6 +286,7 @@ print(me)
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
