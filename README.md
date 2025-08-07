@@ -1,30 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=200&section=header&text=Hey%20there!%20I'm%20Bijay%20Koirala&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Automation%20Enthusiast%20|%20Professional%20Sleeper&descAlignY=55&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=200&section=header&text=Hey%20there!%20I'm%20Bijay%20Koirala&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20|%20Automation%20Enthusiast%20|%20Professional%20Sleeper&descAlignY=55&descSize=16" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Automation+Expert+%F0%9F%A4%96;Web+Scraping+Specialist+%F0%9F%95%B8%EF%B8%8F;Bot+Developer+%F0%9F%A4%96;I+can+sleep+48hrs%2Fday+%F0%9F%98%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Web+Based+Analyzer+%F0%9F%92%BB;Automation+Expert+%F0%9F%A4%96;Web+Scraping+Specialist+%F0%9F%95%B8%EF%B8%8F;Bot+Developer+%F0%9F%A4%96;I+can+sleep+48hrs%2Fday+%F0%9F%98%B4" />
 </div>
 
 <div align="center">
   <a href="https://bijaykoirala0.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/bijay-koirala/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bijaykoirala003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/bijay085">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bijay085&label=Profile%20views&color=00ADB5&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bijay085&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bijay085?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/bijay085?label=GitHub%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </div>
 
 ---
@@ -55,7 +57,11 @@ class BijayKoirala:
             'tools': ['Git', 'Power BI', 'Excel', 'VS Code'],
             'ai': ['Prompt Engineering', 'ChatGPT Integration']
         }
-    
+```
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+
+```python
     def current_status(self):
         return {
             '🔭 Working on': '12+ Private Automation Tools',
@@ -76,252 +82,199 @@ print(me)
 
 ## 🔥 Current Focus
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-        <br><b>Learning</b><br>
-        Advanced AI Integration<br>
-        Machine Learning<br>
-        Cloud Technologies
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
-        <br><b>Building</b><br>
-        Automation Framework<br>
-        Real-time Analytics<br>
-        AI-powered Tools
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-3390516c-8ac3-4a3e-8564-ab4c76e1ce2f.gif" width="50">
-        <br><b>Exploring</b><br>
-        Web3 Technologies<br>
-        DevOps Practices<br>
-        System Architecture
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" cellspacing="0" cellpadding="20">
+  <tr>
+    <td width="33.33%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200" alt="Learning">
+      <h2>🎯 Learning</h2>
+      <ul>
+        <li>Advanced AI Integration</li>
+        <li>Machine Learning</li>
+        <li>Cloud Technologies</li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200" alt="Building">
+      <h2>⚡ Building</h2>
+      <ul>
+        <li>Automation Framework</li>
+        <li>Real-time Analytics</li>
+        <li>AI-powered Tools</li>
+      </ul>
+    </td>
+    <td width="33.34%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" alt="Exploring">
+      <h2>🚀 Exploring</h2>
+      <ul>
+        <li>Web3 Technologies</li>
+        <li>DevOps Practices</li>
+        <li>System Architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
-<div align="center">
-
-### 👨‍💻 Programming Languages
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🧰 Frameworks & Libraries
-<p>
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-    <img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    <img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 💻 Tools & Software
-<p>
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-    <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-</div>
+<table width="100%" cellpadding="15">
+  <tr>
+    <td width="25%" valign="top">
+      <h3>👨‍💻 Programming Languages</h3>
+      <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><br>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><br>
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🧰 Frameworks & Libraries</h3>
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br>
+      <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/><br>
+      <img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=python&logoColor=white"/><br>
+      <img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/><br>
+      <img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🗄️ Databases</h3>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+    <td width="25%" valign="top">
+      <h3>💻 Tools & Software</h3>
+      <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><br>
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><br>
+      <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><br>
+      <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/><br>
+      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><br>
+      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
-<div align="center">
-
-### 🚀 Building Tools That Automate The Future
-
-<br>
-
-<!-- Project 1 & 2 Row -->
-<table>
+<!-- Row 1: 3 Projects -->
+<table width="100%" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="50%" valign="top">
-      <br>
+    <td width="33.33%" valign="top">
       <h3 align="center">🛠️ API/Web Scraping Suite</h3>
-      <br>
       <div align="center">
         <a href="#">
-          <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="200" alt="API Tools"/>
+          <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="180" alt="API Tools"/>
         </a>
-        <br><br>
         <p>
-          <strong>🔥 12+ Private Automation Tools</strong><br>
-          <em>Netflix • Outlook • ChatGPT • And More</em>
+          <strong>15+ Private Automation Tools</strong><br>
+          <em>Netflix • Outlook • ChatGPT</em>
         </p>
-        <br>
         <div>
-          <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-          <img src="https://img.shields.io/badge/API-FF6347?style=for-the-badge&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+          <img src="https://img.shields.io/badge/API-FF6347?style=flat-square&logo=fastapi&logoColor=white"/>
         </div>
         <br>
         <a href="#">
           <img src="https://img.shields.io/badge/🔒_Private_Repository-FF6B6B?style=for-the-badge"/>
         </a>
       </div>
-      <br>
     </td>
-    <td width="50%" valign="top">
-      <br>
+    <td width="33.33%" valign="top">
       <h3 align="center">🤖 Bot Ecosystem</h3>
-      <br>
       <div align="center">
         <a href="https://github.com/bijay085/Projects/tree/master/Bots">
-          <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Bots"/>
+          <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180" alt="Bots"/>
         </a>
-        <br><br>
         <p>
-          <strong>💬 Telegram & Discord Bots</strong><br>
-          <em>Workflow Automation • User Interaction</em>
+          <strong>Telegram & Discord Bots</strong><br>
+          <em>Workflow Automation & UX</em>
         </p>
-        <br>
         <div>
-          <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Telebot-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Discord.py-7289DA?style=flat-square&logo=discord&logoColor=white"/>
         </div>
         <br>
         <a href="https://github.com/bijay085/Projects/tree/master/Bots">
           <img src="https://img.shields.io/badge/VIEW_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
-      <br>
     </td>
-  </tr>
-</table>
-
-<!-- Project 3 & 4 Row -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <br>
+    <td width="33.34%" valign="top">
       <h3 align="center">🌐 CMS Platform</h3>
-      <br>
       <div align="center">
         <a href="https://flamemodparadise.github.io/My-Site/">
-          <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="CMS"/>
+          <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="180" alt="CMS"/>
         </a>
-        <br><br>
         <p>
-          <strong>📝 Content Management System</strong><br>
+          <strong>Content Management System</strong><br>
           <em>Full-Featured Web Platform</em>
         </p>
-        <br>
         <div>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
         </div>
         <br>
         <a href="https://flamemodparadise.github.io/My-Site/">
-          <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-FF6B6B?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/🌐_LIVE-FF6B6B?style=for-the-badge"/>
         </a>
         <a href="https://github.com/bijay085/Projects/tree/master/CMS%20Site">
-          <img src="https://img.shields.io/badge/VIEW_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
-      <br>
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <h3 align="center">🛡️ FraudShield System</h3>
-      <br>
-      <div align="center">
-        <a href="https://github.com/bijay085/College-Project">
-          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Security"/>
-        </a>
-        <br><br>
-        <p>
-          <strong>🔍 E-commerce Fraud Detection</strong><br>
-          <em>Rule-Based Transaction Monitoring</em>
-        </p>
-        <br>
-        <div>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        </div>
-        <br>
-        <a href="https://github.com/bijay085/College-Project">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <br>
     </td>
   </tr>
 </table>
 
-<!-- Featured Project -->
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
-  <h3>⭐ Highlight Project</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
-</div>
-
-<table>
+<!-- Row 2: 2 Projects -->
+<table width="100%" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="100%">
-      <br>
+    <td width="50%" valign="top">
       <h3 align="center">🎮 Gamified Learning Tracker</h3>
-      <br>
       <div align="center">
         <a href="https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker">
-          <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Gamification"/>
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU2bmxreXd6M2VlbGNuencxem9sYnV2bHI1cGo2bWp4ZmI0OXhwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFE5dagX3tKTqkRZg8/giphy.gif" width="180" alt="Gamification"/>
         </a>
-        <br><br>
-        <p align="center">
-          <strong>🏆 Interactive Progress Tracking System</strong><br>
-          <em>Transform learning into an engaging adventure with gamification elements, achievement systems, and visual progress tracking</em>
+        <p>
+          <strong>Interactive Progress Tracking</strong><br>
+          <em>Gamification Elements for Motivation</em>
         </p>
-        <br>
         <div>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         </div>
         <br>
         <a href="https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker">
           <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
-      <br>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ FraudShield System</h3>
+      <div align="center">
+        <a href="https://github.com/bijay085/College-Project">
+          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNoN2phOHRnamcyangyY2Zsb3N3eG5yYXJjeGl3YTFuNHp3eHh5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24hWQDks6oSSaa9Vgj/giphy.gif" width="180" alt="Security"/>
+        </a>
+        <p>
+          <strong>E-commerce Fraud Detection</strong><br>
+          <em>Rule-Based Transaction Monitoring</em>
+        </p>
+        <div>
+          <img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        </div>
+        <br>
+        <a href="https://github.com/bijay085/College-Project">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-3390516c-8ac3-4a3e-8564-ab4c76e1ce2f.gif" width="40">
-  <strong>More awesome projects coming soon...</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-3390516c-8ac3-4a3e-8564-ab4c76e1ce2f.gif" width="40">
-</div>
-
-</div>
 
 ---
 
@@ -427,23 +380,23 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" alt="Web Scraping">
-        <br><b>Web Scraping</b><br>
+        <h3>🕷️</h3>
+        <b>Web Scraping</b><br>
         <sub>Data extraction from any website</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="Bot Development">
-        <br><b>Bot Development</b><br>
+        <h3>🤖</h3>
+        <b>Bot Development</b><br>
         <sub>Telegram, Discord bots</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60" alt="Automation">
-        <br><b>Automation</b><br>
+        <h3>⚙️</h3>
+        <b>Automation</b><br>
         <sub>Workflow & process automation</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" alt="API Development">
-        <br><b>API Development</b><br>
+        <h3>🔌</h3>
+        <b>API Development</b><br>
         <sub>RESTful API design & integration</sub>
       </td>
     </tr>
@@ -468,13 +421,13 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎓 Certifications & Learning
+## 🎓 Skills & Self-Learning
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Python-Advanced_Certification-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-Intermediate_Level-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Web_Scraping-Expert_Level-FF6B6B?style=for-the-badge&logo=scrapy&logoColor=white" />
@@ -482,13 +435,23 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/ChatGPT-Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Data_Analysis-Power_BI_Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Data_Analytics-Self_Taught-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/ChatGPT-Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
       </td>
     </tr>
   </table>
+  
+  <br>
+  
+  <p><b>📚 Learning Source:</b> YouTube University & Documentation Diving 🎥</p>
+  <p><i>"Self-taught is the best taught - no certificates, just pure skills!"</i></p>
 </div>
 
 ---
@@ -535,46 +498,15 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 ## 🎮 When I'm Not Coding
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Gaming"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYxbGdqZGpkcGp5N2NrNzFmeWdkank3NXYwYXVvNjBleGNnMXZ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUoc4lJB6rH4j2kJ9s/giphy.gif" width="300" alt="Gaming"/>
   
-  ### My Interests:
-  - 🎮 **Gaming**: WWE & Fighting games enthusiast
-  - 😴 **Professional Sleeper**: Can sleep 48hrs/day (if physics allowed)
-  - 🍕 **Food**: Coffee-powered developer
-  - 🎵 **Music**: Coding with beats
-</div>
-
----
-
-## 📚 Latest Blog Posts & Resources
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/📝_Blog-00ADB5?style=flat-square" />
-        <b>Web Scraping Best Practices in 2025</b><br>
-        <i>A comprehensive guide to ethical scraping</i>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🎥_Tutorial-FF0000?style=flat-square" />
-        <b>Building Discord Bots with Python</b><br>
-        <i>Step-by-step automation tutorial</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/💡_Guide-FFA116?style=flat-square" />
-        <b>ChatGPT API Integration Masterclass</b><br>
-        <i>Advanced prompt engineering techniques</i>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🔧_Tool-4CAF50?style=flat-square" />
-        <b>Excel to Python: Data Migration</b><br>
-        <i>Automate your workflow completely</i>
-      </td>
-    </tr>
-  </table>
+  <h3>My Interests:</h3>
+  <div align="left" style="display: inline-block;">
+    🎮 <b>Gaming:</b> WWE & Fighting games enthusiast<br>
+    😴 <b>Professional Sleeper:</b> Can sleep 48hrs/day (if physics allowed)<br>
+    🍕 <b>Food:</b> Coffee-powered developer<br>
+    🎵 <b>Music:</b> Coding with beats
+  </div>
 </div>
 
 ---
@@ -582,15 +514,11 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 ## 🎯 Goals
 
 <div align="center">
-  
-  - [ ] 📚 **Learn AI and ML** - Deep dive into machine learning algorithms
-  - [ ] 🔍 **Analyze more sites** - Expand web scraping capabilities
-  - [ ] 🤖 **Make automation tools** - Build more efficient automation solutions
-  - [ ] 📊 **Create dashboards** - Develop interactive data visualization dashboards
-  - [ ] 🚀 **Launch Open Source tools** - Contribute to the community
-  - [ ] 🧠 **Master Advanced AI Integration** - Integrate cutting-edge AI models
-  - [ ] ☁️ **Learn Cloud Architecture** - AWS/Azure deployment skills
-  
+  <div align="left" style="display: inline-block;">
+    ☐ 📚 <b>Learn AI and ML</b> - Deep dive into machine learning algorithms<br>
+    ☐ 🔍 <b>Analyze more sites</b> - Expand web scraping capabilities<br>
+    ☐ 📊 <b>Create dashboards</b> - Develop interactive data visualization dashboards
+  </div>
 </div>
 
 ---
@@ -629,14 +557,11 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   
   If you find my projects helpful, consider supporting me!
   
-  <a href="https://www.buymeacoffee.com/bijaykoirala">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <a href="https://github.com/bijay085?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star_my_repos-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://ko-fi.com/bijaykoirala">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-  <a href="https://github.com/sponsors/bijay085">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
+  <a href="https://github.com/bijay085">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
   <br><br>
@@ -654,13 +579,14 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   
   <h3>I'm always excited to connect with fellow developers!</h3>
   
-  Whether you want to:
-  - 💼 Collaborate on projects
-  - 🤖 Discuss automation ideas  
-  - 💡 Share tech insights
-  - ☕ Have a virtual coffee chat
+  <p>Whether you want to:</p>
   
-  <br>
+  💼 Collaborate on projects<br>
+  🤖 Discuss automation ideas<br>
+  💡 Share tech insights<br>
+  ☕ Have a virtual coffee chat
+  
+  <br><br>
   
   <a href="mailto:bijaykoirala003@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -677,9 +603,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   
   ### Built with ☕ & ❤️ by Bijay Koirala
   
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-7de0ca8e-7f2e-4a67-a828-b193daebaa82.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/216654124-f76ec8bb-b8f4-41f5-a678-eb75ecb16d96.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-7de0ca8e-7f2e-4a67-a828-b193daebaa82.gif" width="30">
+  ✨ ✨ ✨
   
   <br>
   
