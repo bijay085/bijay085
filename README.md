@@ -47,8 +47,9 @@ class BijayKoirala:
     
     def skills(self):
         return {
-            'languages': ['Python', 'JavaScript', 'PHP', 'HTML', 'CSS'],
-            'databases': ['MySQL', 'PostgreSQL'],
+            'languages': ['Python', 'JavaScript', 'HTML', 'CSS'],
+            'frameworks': ['Flask', 'React Basics'],
+            'databases': ['MySQL', 'MongoDB'],
             'automation': ['Web Scraping', 'Selenium', 'BeautifulSoup'],
             'specialties': ['Bot Development', 'API Integration', 'Data Analysis'],
             'tools': ['Git', 'Power BI', 'Excel', 'VS Code'],
@@ -113,24 +114,24 @@ print(me)
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🧰 Frameworks & Libraries
 <p>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
     <img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     <img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases
 <p>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 💻 Tools & Software
@@ -353,7 +354,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
       <td align="center" width="25%">
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="Bot Development">
         <br><b>Bot Development</b><br>
-        <sub>Telegram, Discord, WhatsApp bots</sub>
+        <sub>Telegram, Discord bots</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60" alt="Automation">
@@ -498,17 +499,17 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Goals
 
 <div align="center">
   
-  - [ ] 🚀 Launch **3 Open Source** automation tools
-  - [ ] 📚 Master **Cloud Architecture** (AWS/Azure)
-  - [ ] 🤝 Contribute to **50+** open source projects
-  - [ ] 🎓 Complete **AI/ML** specialization
-  - [ ] 💼 Build a **SaaS** product
-  - [ ] 🌟 Reach **500** GitHub followers
-  - [ ] ☕ Reduce coffee intake (just kidding!)
+  - [ ] 📚 **Learn AI and ML** - Deep dive into machine learning algorithms
+  - [ ] 🔍 **Analyze more sites** - Expand web scraping capabilities
+  - [ ] 🤖 **Make automation tools** - Build more efficient automation solutions
+  - [ ] 📊 **Create dashboards** - Develop interactive data visualization dashboards
+  - [ ] 🚀 **Launch Open Source tools** - Contribute to the community
+  - [ ] 🧠 **Master Advanced AI Integration** - Integrate cutting-edge AI models
+  - [ ] ☁️ **Learn Cloud Architecture** - AWS/Azure deployment skills
   
 </div>
 
