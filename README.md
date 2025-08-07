@@ -73,6 +73,38 @@ print(me)
 
 ---
 
+## 🔥 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+        <br><b>Learning</b><br>
+        Advanced AI Integration<br>
+        Machine Learning<br>
+        Cloud Technologies
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
+        <br><b>Building</b><br>
+        Automation Framework<br>
+        Real-time Analytics<br>
+        AI-powered Tools
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-3390516c-8ac3-4a3e-8564-ab4c76e1ce2f.gif" width="50">
+        <br><b>Exploring</b><br>
+        Web3 Technologies<br>
+        DevOps Practices<br>
+        System Architecture
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
@@ -229,10 +261,192 @@ Gamification elements for motivation<br>
 
 ---
 
+## 💡 Recent Achievements
+
+<div align="center">
+  
+  [![@bijay085's Holopin board](https://holopin.me/bijay085)](https://holopin.io/@bijay085)
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆_Projects_Completed-15+-00ADB5?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐_Automation_Tools-12+-FF6B6B?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀_Happy_Clients-20+-4CAF50?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-6F4E37?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░  58.2%
+JavaScript   5 hrs 45 mins   ██████░░░░░░░░░░░░░░  26.7%
+HTML/CSS     2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░  10.5%
+PHP          45 mins         █░░░░░░░░░░░░░░░░░░░   3.5%
+Other        15 mins         ░░░░░░░░░░░░░░░░░░░░   1.1%
+```
+<!--END_SECTION:waka-->
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bijay085&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🔄 Workflow & Automation Showcase
+
+<div align="center">
+  
+  ```mermaid
+  graph TD
+      A[Manual Tasks 😓] -->|Automation| B[Bijay's Tools 🛠️]
+      B --> C[Web Scraping 🕷️]
+      B --> D[API Integration 🔌]
+      B --> E[Bot Development 🤖]
+      B --> F[Data Processing 📊]
+      
+      C --> G[Time Saved ⏰]
+      D --> G
+      E --> G
+      F --> G
+      
+      G --> H[Happy Clients 😊]
+      G --> I[More Sleep Time 😴]
+      
+      style A fill:#ff6b6b
+      style B fill:#00ADB5
+      style G fill:#4CAF50
+      style H fill:#FFD93D
+      style I fill:#6F42C1
+  ```
+  
+</div>
+
+---
+
+## 💼 Services I Offer
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" alt="Web Scraping">
+        <br><b>Web Scraping</b><br>
+        <sub>Data extraction from any website</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="Bot Development">
+        <br><b>Bot Development</b><br>
+        <sub>Telegram, Discord, WhatsApp bots</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60" alt="Automation">
+        <br><b>Automation</b><br>
+        <sub>Workflow & process automation</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" alt="API Development">
+        <br><b>API Development</b><br>
+        <sub>RESTful API design & integration</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Detailed Analytics
+
+<details>
+<summary><b>⚡ More GitHub Stats</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijay085&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bijay085&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijay085&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijay085&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bijay085&theme=github_dark" alt="Productive Time" />
+</div>
+</details>
+
+---
+
+## 🎓 Certifications & Learning
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-Advanced_Certification-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Web_Scraping-Expert_Level-FF6B6B?style=for-the-badge&logo=scrapy&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/ChatGPT-Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Data_Analysis-Power_BI_Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎲 Fun Facts About Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Fun Facts">
+  
+  <table>
+    <tr>
+      <td>🧠</td>
+      <td>I debug code in my dreams (literally!)</td>
+    </tr>
+    <tr>
+      <td>⌨️</td>
+      <td>My keyboard has trust issues from all the ctrl+z</td>
+    </tr>
+    <tr>
+      <td>🐛</td>
+      <td>I don't fix bugs, I feature them</td>
+    </tr>
+    <tr>
+      <td>☕</td>
+      <td>My code runs on coffee and determination</td>
+    </tr>
+    <tr>
+      <td>🎮</td>
+      <td>WWE games are my stress relief therapy</td>
+    </tr>
+    <tr>
+      <td>😴</td>
+      <td>Sleep is my superpower - 48hrs/day if possible!</td>
+    </tr>
+    <tr>
+      <td>🤖</td>
+      <td>I automate everything, even my excuses</td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -251,7 +465,56 @@ Gamification elements for motivation<br>
 
 ---
 
-## 💭 Random Dev Quote
+## 📚 Latest Blog Posts & Resources
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/📝_Blog-00ADB5?style=flat-square" />
+        <b>Web Scraping Best Practices in 2025</b><br>
+        <i>A comprehensive guide to ethical scraping</i>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/🎥_Tutorial-FF0000?style=flat-square" />
+        <b>Building Discord Bots with Python</b><br>
+        <i>Step-by-step automation tutorial</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/💡_Guide-FFA116?style=flat-square" />
+        <b>ChatGPT API Integration Masterclass</b><br>
+        <i>Advanced prompt engineering techniques</i>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/🔧_Tool-4CAF50?style=flat-square" />
+        <b>Excel to Python: Data Migration</b><br>
+        <i>Automate your workflow completely</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+<div align="center">
+  
+  - [ ] 🚀 Launch **3 Open Source** automation tools
+  - [ ] 📚 Master **Cloud Architecture** (AWS/Azure)
+  - [ ] 🤝 Contribute to **50+** open source projects
+  - [ ] 🎓 Complete **AI/ML** specialization
+  - [ ] 💼 Build a **SaaS** product
+  - [ ] 🌟 Reach **500** GitHub followers
+  - [ ] ☕ Reduce coffee intake (just kidding!)
+  
+</div>
+
+---
+
+## 💻 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -275,6 +538,30 @@ Gamification elements for motivation<br>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+---
+
+## 🤝 Support My Work
+
+<div align="center">
+  
+  If you find my projects helpful, consider supporting me!
+  
+  <a href="https://www.buymeacoffee.com/bijaykoirala">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/bijaykoirala">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://github.com/sponsors/bijay085">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100" alt="Handshake">
+  
 </div>
 
 ---
