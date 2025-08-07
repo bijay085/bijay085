@@ -148,97 +148,177 @@ print(me)
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
+
+### 🚀 Building Tools That Automate The Future
+
+<br>
+
+<!-- Project 1 & 2 Row -->
 <table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🛠️ API/Web Scraping Suite</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="API Tools"/>
-<p>
-<br>
-<strong>12+ Private Automation Tools</strong><br>
-Netflix, Outlook, ChatGPT & more<br>
-<br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-</div>
-</td>
-
-<td width="50%">
-
-<h3 align="center">🤖 Bot Ecosystem</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Bots"/>
-<p>
-<br>
-<strong>Telegram & Discord Bots</strong><br>
-Workflow automation & user interaction<br>
-<br>
-<a href="https://github.com/bijay085/Projects/tree/master/Bots">
-<img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🌐 CMS Platform</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100" alt="CMS"/>
-<p>
-<br>
-<strong>Content Management System</strong><br>
-Full-featured web platform<br>
-<br>
-<a href="https://flamemodparadise.github.io/My-Site/">
-<img src="https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://github.com/bijay085/Projects/tree/master/CMS%20Site">
-<img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-</div>
-</td>
-
-<td width="50%">
-
-<h3 align="center">🛡️ FraudShield System</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Security"/>
-<p>
-<br>
-<strong>E-commerce Fraud Detection</strong><br>
-Rule-based transaction monitoring<br>
-<br>
-<a href="https://github.com/bijay085/College-Project">
-<img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <h3 align="center">🛠️ API/Web Scraping Suite</h3>
+      <br>
+      <div align="center">
+        <a href="#">
+          <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="200" alt="API Tools"/>
+        </a>
+        <br><br>
+        <p>
+          <strong>🔥 12+ Private Automation Tools</strong><br>
+          <em>Netflix • Outlook • ChatGPT • And More</em>
+        </p>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+          <img src="https://img.shields.io/badge/API-FF6347?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        </div>
+        <br>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🔒_Private_Repository-FF6B6B?style=for-the-badge"/>
+        </a>
+      </div>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <h3 align="center">🤖 Bot Ecosystem</h3>
+      <br>
+      <div align="center">
+        <a href="https://github.com/bijay085/Projects/tree/master/Bots">
+          <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Bots"/>
+        </a>
+        <br><br>
+        <p>
+          <strong>💬 Telegram & Discord Bots</strong><br>
+          <em>Workflow Automation • User Interaction</em>
+        </p>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+        </div>
+        <br>
+        <a href="https://github.com/bijay085/Projects/tree/master/Bots">
+          <img src="https://img.shields.io/badge/VIEW_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br>
+    </td>
+  </tr>
 </table>
 
-<h3 align="center">🎮 Gamified Learning Tracker</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100" alt="Gamification"/>
-<p>
-<strong>Interactive Progress Tracking</strong><br>
-Gamification elements for motivation<br>
+<!-- Project 3 & 4 Row -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <h3 align="center">🌐 CMS Platform</h3>
+      <br>
+      <div align="center">
+        <a href="https://flamemodparadise.github.io/My-Site/">
+          <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="CMS"/>
+        </a>
+        <br><br>
+        <p>
+          <strong>📝 Content Management System</strong><br>
+          <em>Full-Featured Web Platform</em>
+        </p>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        </div>
+        <br>
+        <a href="https://flamemodparadise.github.io/My-Site/">
+          <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-FF6B6B?style=for-the-badge"/>
+        </a>
+        <a href="https://github.com/bijay085/Projects/tree/master/CMS%20Site">
+          <img src="https://img.shields.io/badge/VIEW_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <h3 align="center">🛡️ FraudShield System</h3>
+      <br>
+      <div align="center">
+        <a href="https://github.com/bijay085/College-Project">
+          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Security"/>
+        </a>
+        <br><br>
+        <p>
+          <strong>🔍 E-commerce Fraud Detection</strong><br>
+          <em>Rule-Based Transaction Monitoring</em>
+        </p>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        </div>
+        <br>
+        <a href="https://github.com/bijay085/College-Project">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<!-- Featured Project -->
 <br>
-<a href="https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker">
-<img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
+  <h3>⭐ Highlight Project</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
+</div>
+
+<table>
+  <tr>
+    <td width="100%">
+      <br>
+      <h3 align="center">🎮 Gamified Learning Tracker</h3>
+      <br>
+      <div align="center">
+        <a href="https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker">
+          <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Gamification"/>
+        </a>
+        <br><br>
+        <p align="center">
+          <strong>🏆 Interactive Progress Tracking System</strong><br>
+          <em>Transform learning into an engaging adventure with gamification elements, achievement systems, and visual progress tracking</em>
+        </p>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white"/>
+        </div>
+        <br>
+        <a href="https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker">
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-3390516c-8ac3-4a3e-8564-ab4c76e1ce2f.gif" width="40">
+  <strong>More awesome projects coming soon...</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-3390516c-8ac3-4a3e-8564-ab4c76e1ce2f.gif" width="40">
 </div>
 
 </div>
