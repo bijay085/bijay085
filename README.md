@@ -584,28 +584,48 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📬 Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Fire Coding"/>
   
-  <h3>I'm always excited to connect with fellow developers!</h3>
-  
-  <p>Whether you want to:</p>
-  
-  💼 Collaborate on projects<br>
-  🤖 Discuss automation ideas<br>
-  💡 Share tech insights<br>
-  ☕ Have a virtual coffee chat
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Connection Banner"/>
   
   <br><br>
   
-  <a href="mailto:bijaykoirala003@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bijay-koirala/">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <h3>💡 Open for Freelance Projects | 🚀 Automation Expert | 🤖 Bot Developer</h3>
+  
+  <br>
+  
+  <div align="center">
+    <a href="mailto:bijaykoirala003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-bijaykoirala003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/bijay-koirala/">
+      <img src="https://img.shields.io/badge/LinkedIn-Bijay_Koirala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://bijaykoirala0.com.np">
+      <img src="https://img.shields.io/badge/Portfolio-bijaykoirala0.com.np-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
+    </a>
+  </div>
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Response_Time-< 24_hours-00ADB5?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Available_For-Freelance-4CAF50?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Time_Zone-GMT+5:45-FF6B6B?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 ---
