@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=200&section=header&text=Hey%20there!%20I'm%20Bijay%20Koirala&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20|%20Automation%20Enthusiast%20|%20Professional%20Sleeper&descAlignY=55&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=200&section=header&text=Hey%20there!%20I'm%20Bijay%20Koirala&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20|%20SEO%20Intern%20|%20Professional%20Sleeper&descAlignY=55&descSize=16" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Web+Based+Analyzer+%F0%9F%92%BB;Automation+Expert+%F0%9F%A4%96;Web+Scraping+Specialist+%F0%9F%95%B8%EF%B8%8F;Bot+Developer+%F0%9F%A4%96;I+can+sleep+48hrs%2Fday+%F0%9F%98%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;SEO+Intern+%F0%9F%94%8D;Web+Scraping+Specialist+%F0%9F%95%B8%EF%B8%8F;Automation+Expert+%F0%9F%A4%96;SEO+Crawler+Developer+%F0%9F%94%8D;Bot+Developer+%F0%9F%A4%96;I+can+sleep+48hrs%2Fday+%F0%9F%98%B4" />
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@ class BijayKoirala:
         self.name = "Bijay Koirala"
         self.location = "Nepal 🇳🇵"
         self.web = "https://bijaykoirala0.com.np"
-        self.company = "Freelancer"
+        self.company = "SEO Intern"
         
     def __str__(self):
         return self.name
@@ -50,9 +50,9 @@ class BijayKoirala:
     def skills(self):
         return {
             'languages': ['Python', 'JavaScript', 'HTML', 'CSS'],
-            'frameworks': ['Flask'],
-            'databases': ['MySQL', 'MongoDB'],
-            'automation': ['Web Scraping', 'Selenium', 'BeautifulSoup'],
+            'libraries': ['Selenium', 'BeautifulSoup', 'Requests'],
+            'automation': ['Web Scraping', 'SEO Crawlers'],
+            'seo_tools': ['Screaming Frog', 'SEMrush', 'Search Console'],
             'specialties': ['Bot Development', 'API Integration', 'Data Analysis'],
             'tools': ['Git', 'Power BI', 'Excel', 'VS Code'],
             'ai': ['Prompt Engineering', 'ChatGPT Integration']
@@ -64,11 +64,11 @@ class BijayKoirala:
 ```python
     def current_status(self):
         return {
-            '🔭 Working on': '12+ Private Automation Tools',
-            '🌱 Learning': 'Advanced AI Integration',
+            '🔭 Working on': 'SEO Crawlers & Web Scrapers',
+            '🌱 Learning': 'SEO Tools & AI Integration',
             '👯 Looking to collaborate': 'Open Source Projects',
-            '🤔 Seeking help with': 'Finding more hours to sleep',
-            '💬 Ask me about': 'Web Scraping & Automation',
+            '💼 Current Role': 'SEO Intern',
+            '💬 Ask me about': 'Web Scraping, SEO & Automation',
             '⚡ Fun fact': 'I can sleep 48 hours a day!'
         }
 
@@ -89,17 +89,17 @@ print(me)
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200" alt="Learning">
       <h2>🎯 Learning</h2>
       <ul>
-        <li>Advanced AI Integration</li>
-        <li>Machine Learning</li>
-        <li>Cloud Technologies</li>
+        <li>SEO Tools (SEMrush, Screaming Frog)</li>
+        <li>Technical SEO</li>
+        <li>AI Integration</li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200" alt="Building">
       <h2>⚡ Building</h2>
       <ul>
+        <li>SEO Crawlers</li>
         <li>Automation Framework</li>
-        <li>Real-time Analytics</li>
         <li>AI-powered Tools</li>
       </ul>
     </td>
@@ -107,7 +107,7 @@ print(me)
       <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" height="150" alt="Exploring">
       <h2>🚀 Exploring</h2>
       <ul>
-        <li>Web3 Technologies</li>
+        <li>Technical SEO</li>
         <li>DevOps Practices</li>
         <li>System Architecture</li>
       </ul>
@@ -117,7 +117,7 @@ print(me)
       <h2>🔧 Optimizing</h2>
       <ul>
         <li>Code Performance</li>
-        <li>Database Queries</li>
+        <li>SEO Strategies</li>
         <li>Workflow Efficiency</li>
       </ul>
     </td>
@@ -141,16 +141,17 @@ print(me)
     </td>
     <td width="25%" valign="top">
       <h3>🧰 Frameworks & Libraries</h3>
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br>
       <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/><br>
       <img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful%20Soup-59666C?style=for-the-badge&logo=python&logoColor=white"/><br>
       <img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/><br>
       <img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
-      <h3>🗄️ Databases</h3>
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <h3>🔍 SEO Tools</h3>
+      <img alt="Screaming Frog" src="https://img.shields.io/badge/Screaming_Frog-6DB33F?style=for-the-badge&logo=frog&logoColor=white"/><br>
+      <img alt="SEMrush" src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white"/><br>
+      <img alt="Google Search Console" src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br>
+      <img alt="Google Analytics" src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
       <h3>💻 Tools & Software</h3>
@@ -217,25 +218,23 @@ print(me)
       </div>
     </td>
     <td width="33.34%" valign="top">
-      <h3 align="center">🌐 CMS Platform</h3>
+      <h3 align="center">🔍 SEO Crawlers</h3>
       <div align="center">
-        <a href="https://flamemodparadise.github.io/My-Site/">
-          <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="180" alt="CMS"/>
+        <a href="#">
+          <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="180" alt="SEO Crawlers"/>
         </a>
         <p>
-          <strong>Content Management System</strong><br>
-          <em>Full-Featured Web Platform</em>
+          <strong>SEO-Based Web Scrapers</strong><br>
+          <em>Site Audits & Analysis</em>
         </p>
         <div>
-          <img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white"/>
         </div>
         <br>
-        <a href="https://flamemodparadise.github.io/My-Site/">
-          <img src="https://img.shields.io/badge/🌐_LIVE-FF6B6B?style=for-the-badge"/>
-        </a>
-        <a href="https://github.com/bijay085/Projects/tree/master/CMS%20Site">
-          <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🔒_Private_Repository-FF6B6B?style=for-the-badge"/>
         </a>
       </div>
     </td>
@@ -258,7 +257,6 @@ print(me)
         <div>
           <img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         </div>
         <br>
         <a href="https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker">
@@ -267,24 +265,22 @@ print(me)
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ FraudShield System</h3>
+      <h3 align="center">🛒 Smart Shop</h3>
       <div align="center">
-        <a href="https://github.com/bijay085/College-Project">
-          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNoN2phOHRnamcyangyY2Zsb3N3eG5yYXJjeGl3YTFuNHp3eHh5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24hWQDks6oSSaa9Vgj/giphy.gif" width="180" alt="Security"/>
+        <a href="#">
+          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNoN2phOHRnamcyangyY2Zsb3N3eG5yYXJjeGl3YTFuNHp3eHh5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24hWQDks6oSSaa9Vgj/giphy.gif" width="180" alt="Smart Shop"/>
         </a>
         <p>
-          <strong>E-commerce Fraud Detection</strong><br>
-          <em>Rule-Based Transaction Monitoring</em>
+          <strong>E-commerce Platform</strong><br>
+          <em>Development Paused</em>
         </p>
         <div>
           <img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
         </div>
         <br>
-        <a href="https://github.com/bijay085/College-Project">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="#">
+          <img src="https://img.shields.io/badge/⏸️_PAUSED-FFD700?style=for-the-badge"/>
         </a>
       </div>
     </td>
@@ -320,10 +316,10 @@ print(me)
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🏆_Projects_Completed-15+-00ADB5?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🏆_Projects_Completed-17+-00ADB5?style=for-the-badge" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/⭐_Automation_Tools-12+-FF6B6B?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/⭐_Automation_Tools-15+-FF6B6B?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/🚀_Happy_Clients-20+-4CAF50?style=for-the-badge" />
@@ -367,7 +363,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   graph TD
       A[Manual Tasks 😓] -->|Automation| B[Bijay's Tools 🛠️]
       B --> C[Web Scraping 🕷️]
-      B --> D[API Integration 🔌]
+      B --> D[SEO Crawlers 🔍]
       B --> E[Bot Development 🤖]
       B --> F[Data Processing 📊]
       
@@ -395,22 +391,27 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <h3>🕷️</h3>
         <b>Web Scraping</b><br>
         <sub>Data extraction from any website</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <h3>🤖</h3>
         <b>Bot Development</b><br>
         <sub>Telegram, Discord bots</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <h3>⚙️</h3>
         <b>Automation</b><br>
         <sub>Workflow & process automation</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
+        <h3>🔍</h3>
+        <b>SEO Analysis</b><br>
+        <sub>Technical SEO & Site Audits</sub>
+      </td>
+      <td align="center" width="20%">
         <h3>🔌</h3>
         <b>API Development</b><br>
         <sub>RESTful API design & integration</sub>
@@ -458,7 +459,10 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center">
+        <img src="https://img.shields.io/badge/SEO_Tools-Beginner_Level-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      </td>
+      <td align="center">
         <img src="https://img.shields.io/badge/ChatGPT-Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
       </td>
     </tr>
@@ -527,9 +531,11 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
   <div align="left" style="display: inline-block;">
-    ☐ 📚 <b>Learn AI and ML</b> - Deep dive into machine learning algorithms<br>
-    ☐ 🔍 <b>Analyze more sites</b> - Expand web scraping capabilities<br>
-    ☐ 📊 <b>Create dashboards</b> - Develop interactive data visualization dashboards
+    ☑ 💼 <b>SEO Internship</b> - Currently working as SEO Intern<br>
+    ☑ 🕷️ <b>SEO Crawlers</b> - Built SEO-based web scrapers<br>
+    ☐ 🛒 <b>Smart Shop</b> - E-commerce project (paused)<br>
+    ☐ 📊 <b>Create dashboards</b> - Interactive data visualization<br>
+    ☐ 📚 <b>Learn AI and ML</b> - Deep dive into machine learning
   </div>
 </div>
 
@@ -592,7 +598,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   
   <br><br>
   
-  <h3>💡 Open for Freelance Projects | 🚀 Automation Expert | 🤖 Bot Developer</h3>
+  <h3>💡 Open for Freelance Projects | 🔍 SEO Intern | 🤖 Bot Developer</h3>
   
   <br>
   
