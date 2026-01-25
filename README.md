@@ -7,15 +7,6 @@
 </div>
 
 <div align="center">
-  <a href="https://bijaykoirala0.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/bijay-koirala/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bijaykoirala003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://github.com/bijay085">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -40,8 +31,7 @@ class BijayKoirala:
     def __init__(self):
         self.username = "bijay085"
         self.name = "Bijay Koirala"
-        self.location = "Nepal 🇳🇵"
-        self.web = "https://bijaykoirala0.com.np"
+        self.location = "Earth 🌍"
         self.company = "Freelancer"
         
     def __str__(self):
@@ -597,16 +587,8 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
   <br>
   
   <div align="center">
-    <a href="mailto:bijaykoirala003@gmail.com">
-      <img src="https://img.shields.io/badge/Email-bijaykoirala003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/bijay-koirala/">
-      <img src="https://img.shields.io/badge/LinkedIn-Bijay_Koirala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://bijaykoirala0.com.np">
-      <img src="https://img.shields.io/badge/Portfolio-bijaykoirala0.com.np-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
+    <a href="https://github.com/bijay085">
+      <img src="https://img.shields.io/badge/GitHub-bijay085-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
   
@@ -621,7 +603,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
         <img src="https://img.shields.io/badge/Available_For-Freelance-4CAF50?style=flat-square" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Time_Zone-GMT+5:45-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Time_Zone-UTC-FF6B6B?style=flat-square" />
       </td>
     </tr>
   </table>
