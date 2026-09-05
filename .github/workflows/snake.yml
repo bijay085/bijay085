@@ -1,22 +1,40 @@
-name: Generate Snake
+# Save this file at: .github/workflows/snake.yml
+# It generates YOUR OWN contribution snake instead of borrowing platane's.
+# After the first run, switch the snake URLs in README.md to:
+#   https://raw.githubusercontent.com/bijay085/bijay085/output/github-contribution-grid-snake-dark.svg
+#   https://raw.githubusercontent.com/bijay085/bijay085/output/github-contribution-grid-snake.svg
+
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # every day at midnight UTC
+  workflow_dispatch:      # lets you run it manually from the Actions tab
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk/svg-only@v2
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: bijay085
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-      - uses: EndBug/add-and-commit@v7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          branch: output
-          message: 'Generate Snake'
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
