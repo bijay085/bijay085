@@ -1,3 +1,324 @@
+# Bijay Koirala
+
+Python Developer · SEO Specialist · Automation and Chrome Extensions · Nepal
+
+<div align="center">
+
+<p>Web scrapers, bots, workflow automation, and tools for SEO teams.</p>
+
+<p>
+<a href="mailto:bijaykoirala003@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-hire%20me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email Bijay Koirala"></a>
+&nbsp;
+<a href="https://bijaykoirala0.com.np/"><img height="28" src="https://img.shields.io/badge/Portfolio-bijaykoirala0.com.np-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1220" alt="Portfolio"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bijay-koirala/"><img height="28" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1220" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://github.com/bijay085?tab=followers"><img height="28" src="https://img.shields.io/github/followers/bijay085?style=flat-square&color=22C55E&labelColor=0B1220&logo=github&logoColor=white&label=Followers" alt="Followers"></a>
+</p>
+
+<p>
+<img height="24" src="https://img.shields.io/badge/Available-freelance%20%26%20remote-22C55E?style=flat-square&labelColor=0B1220" alt="Available">
+&nbsp;
+<img height="24" src="https://img.shields.io/badge/Based%20in-Nepal%20·%20GMT%2B5%3A45-0EA5E9?style=flat-square&labelColor=0B1220" alt="Based in">
+&nbsp;
+<img height="24" src="https://img.shields.io/badge/Reply-under%2024%20hours-A78BFA?style=flat-square&labelColor=0B1220" alt="Reply">
+&nbsp;
+<img height="24" src="https://img.shields.io/badge/Focus-automation%2C%20SEO%2C%20extensions-F59E0B?style=flat-square&labelColor=0B1220" alt="Focus">
+</p>
+
+</div>
+
+## About Me
+
+**Bijay Koirala** is a **Python developer and SEO specialist from Nepal**. I build web scrapers, Telegram and Discord bots, ClickUp and Slack automations, Search Console reporting, and three published **Chrome extensions**.
+
+🎓 &nbsp;Bachelor's in computer applications, **completed August 2026**.
+
+💼 &nbsp;Full-time in **service-sector SEO**: building service pages, technical audits, Search Console growth. Before that, **3-4 months in ecommerce SEO** leading projects with consistent GSC and sales wins. Proof available on request if you're hiring.
+
+🌙 &nbsp;Nights and weekends: **freelance automation**. Custom tools, workflow connectors, scrapers, small websites.
+
+<div align="center">
+<p><strong>20+</strong> projects   ·   <strong>10+</strong> clients   ·   <strong>3</strong> live extensions<br><strong>Reply:</strong> under 24 hours   ·   <strong>Status:</strong> open for work</p>
+</div>
+
+<details>
+<summary><b>whoami</b> &nbsp;(click)</summary>
+
+```python
+class Bijay:
+    name       = "Bijay Koirala"
+    role       = "Python Developer · SEO Specialist"
+    based_in   = "Nepal 🇳🇵  (GMT+5:45)"
+    education  = "BCA, graduated Aug 2026"
+    day_job    = "SEO for service businesses"
+    side_work  = "Freelance automation and Chrome extensions"
+
+    stack = {
+        "scraping":   ["Requests", "Selenium", "BeautifulSoup"],
+        "backend":    ["Flask", "MongoDB", "REST APIs"],
+        "bots":       ["Telebot", "discord.py"],
+        "automation": ["ClickUp API", "Apps Script", "Slack webhooks"],
+        "extensions": ["Chrome Manifest V3", "JavaScript"],
+        "seo":        ["Search Console", "GA4", "Screaming Frog", "Semrush"],
+        "data":       ["Power BI", "Excel", "Google Sheets"],
+    }
+
+    def hire_me_for(self):
+        return ["automation tools", "web scraping", "bots",
+                "ClickUp / Slack / Sheets integrations",
+                "Chrome extensions", "technical SEO", "service pages"]
+```
+
+</details>
+
+## Chrome Extensions
+
+Three tools on the Chrome Web Store. Free. Built because I needed them for SEO work.
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>SEO Checker</h3>
+<a href="https://chromewebstore.google.com/detail/seo-checker/kkkmgadddcabjfccbknmalbhiecfheog"><img height="28" src="https://img.shields.io/badge/Add%20to%20Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1220" alt="Install SEO Checker"></a>
+<p align="left">One-click <b>on-page SEO audit</b>: title, meta, headings, alt text, links, canonical, schema. Optional <b>Search Console integration</b> shows clicks, impressions, CTR and position for the page you're on. Runs locally, no account.</p>
+On-page SEO · Search Console
+</td>
+
+<td width="33%" valign="top" align="center">
+<h3>InfoFill</h3>
+<a href="https://chromewebstore.google.com/detail/infofill/pahmcohlbodgpmagnneghackbogangdc"><img height="28" src="https://img.shields.io/badge/Add%20to%20Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1220" alt="Install InfoFill"></a>
+
+<b>Smart form autofill.</b> Save profiles and snippets once, drop them into signups, directory submissions and outreach forms in one click. For SEO and marketing work where data entry eats hours.
+
+Autofill · Outreach
+</td>
+
+<td width="33%" valign="top" align="center">
+<h3>SERP Sheet</h3>
+<a href="https://chromewebstore.google.com/detail/serp-sheet/loomginndkpobojjpgigmgchdoehepem"><img height="28" src="https://img.shields.io/badge/Add%20to%20Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1220" alt="Install SERP Sheet"></a>
+
+<b>Google results straight into a spreadsheet</b>: positions, titles, URLs, snippets. Rank tracking and competitor research without a paid SERP API. Search, click, export.
+
+SERP scraping · Rank tracking
+</td>
+</tr>
+</table>
+
+Need a <strong>custom Chrome extension</strong> for your team? <a href="mailto:bijaykoirala003@gmail.com">Email me</a> what it should do.
+
+## Automation & Workflow Tools
+
+Most of my freelance work is **making a manual task disappear**. Everything below runs in production for real teams.
+
+<table>
+<tr>
+<td><strong>Email → Slack</strong></td>
+<td>Leads, orders and alerts parsed from inbox and posted to the right Slack channel, formatted. No more "did anyone see that email?"</td>
+</tr>
+<tr>
+<td><strong>Sheets ↔ ClickUp ↔ Slack</strong></td>
+<td>Two-way sync via Apps Script. A new Sheets row becomes a ClickUp task with assignee, due date and tags, then pings Slack. Edit either side, both stay current.</td>
+</tr>
+<tr>
+<td><strong>Bot Ecosystem</strong></td>
+<td>Telegram and Discord bots across <strong>thousands of users</strong>: command routing, roles, scheduled jobs, dashboards.  <a href="https://github.com/bijay085/Projects/tree/master/Bots">Repo</a></td>
+</tr>
+<tr>
+<td><strong>Scraper Suite</strong></td>
+<td>15+ private scrapers and API clients that survive rate limits, captchas and layout changes. Scheduled, unattended.</td>
+</tr>
+<tr>
+<td><strong>GSC Reporting</strong></td>
+<td>Search Console data pulled, cleaned and pushed to Sheets and Power BI. Weekly reports without opening a browser.</td>
+</tr>
+</table>
+
+<strong>ClickUp, Slack, Google Sheets, email, any REST API.</strong> I connect them. <a href="https://bijaykoirala0.com.np/#contact">Describe the workflow</a> and I'll tell you what it takes.
+
+## How a Project Goes
+
+<div align="center">
+<table><tr>
+<td align="center" width="22%"><b>1 · Talk</b><p>You describe the pain.<br>I ask the annoying questions.</p></td>
+<td align="center" width="4%">→</td>
+<td align="center" width="22%"><b>2 · Map</b><p>Find the data source,<br>the API, the bottleneck.</p></td>
+<td align="center" width="4%">→</td>
+<td align="center" width="22%"><b>3 · Build</b><p>Python, Apps Script,<br>or a Chrome extension.</p></td>
+<td align="center" width="4%">→</td>
+<td align="center" width="22%"><b>4 · Ship</b><p>Runs on schedule.<br>You stop thinking about it.</p></td>
+</tr></table>
+</div>
+
+## Tech Stack
+
+<div align="center">
+<p>Python · JavaScript · HTML · CSS · Flask · MongoDB · MySQL · Selenium · Git · GitHub · VS Code · Postman</p>
+<img height="22" src="https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0B1220" alt="GSC">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=0B1220" alt="GA4">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/Screaming_Frog-22C55E?style=flat-square&logo=frog&logoColor=white&labelColor=0B1220" alt="Screaming Frog">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/Semrush-FF622D?style=flat-square&logo=semrush&logoColor=white&labelColor=0B1220" alt="Semrush">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white&labelColor=0B1220" alt="ClickUp">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white&labelColor=0B1220" alt="Slack">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0B1220" alt="Apps Script">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1220" alt="Chrome Extensions">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=0B1220&labelColor=0B1220" alt="Power BI">
+&nbsp;
+<img height="22" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0B1220" alt="Burp Suite">
+</div>
+
+## Experience
+
+<table>
+<tr>
+<td><strong>2026 · now</strong></td>
+<td><strong>SEO Specialist</strong><br>Service sector</td>
+<td>Service pages, technical audits, Search Console growth.</td>
+</tr>
+<tr>
+<td><strong>2026 · 3-4 months</strong></td>
+<td><strong>Ecommerce SEO</strong><br>Led projects</td>
+<td>Consistent GSC and sales wins. Proof on request.</td>
+</tr>
+<tr>
+<td><strong>Dec 2025 - Mar 2026</strong></td>
+<td><strong>SEO Intern</strong></td>
+<td>On-page, GSC, technical checks.</td>
+</tr>
+<tr>
+<td><strong>2025 · now</strong></td>
+<td><strong>Freelance Developer</strong><br>Self-employed</td>
+<td>Automation, bots, scrapers, extensions. 20+ projects, 10+ clients.</td>
+</tr>
+</table>
+
+## Hire Me
+
+Looking for a **freelance Python developer**, a **web scraping expert**, someone to **automate ClickUp, Slack and Google Sheets**, an **SEO specialist who can code**, or a **custom Chrome extension**? This is that page.
+
+<table>
+<tr>
+<td><strong>Web Scraping</strong></td>
+<td>Any site, any scale. Anti-bot handling, proxies, clean CSV / JSON / Sheets.</td>
+</tr>
+<tr>
+<td><strong>Bots</strong></td>
+<td>Telegram and Discord bots with real UX, not just slash commands.</td>
+</tr>
+<tr>
+<td><strong>Automation</strong></td>
+<td>ClickUp, Slack, Sheets, email, REST APIs wired together so the task runs itself.</td>
+</tr>
+<tr>
+<td><strong>Chrome Extensions</strong></td>
+<td>Custom browser tools for your team, idea to Web Store listing.</td>
+</tr>
+<tr>
+<td><strong>Technical SEO</strong></td>
+<td>Audits, service pages, on-page fixes, Search Console monitoring.</td>
+</tr>
+<tr>
+<td><strong>Data &amp; Reporting</strong></td>
+<td>Raw data to Power BI or Sheets dashboards, scheduled.</td>
+</tr>
+<tr>
+<td><strong>Small Websites</strong></td>
+<td>Fast static sites and service pages built for search from day one.</td>
+</tr>
+<tr>
+<td><strong>Tech Help</strong></td>
+<td>Consulting, debugging, architecture, "just make it work" calls.</td>
+</tr>
+</table>
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijay085&theme=github_dark&title_color=c9d1d9&text_color=c9d1d9&icon_color=94a3b8&chart_color=94a3b8">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijay085&theme=graywhite" width="700" alt="GitHub contribution history">
+</picture>
+
+<details>
+<summary><strong>More Stats</strong></summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijay085&theme=github_dark&title_color=c9d1d9&text_color=c9d1d9&icon_color=94a3b8&chart_color=94a3b8">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijay085&theme=graywhite" width="340" alt="GitHub account statistics">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bijay085&theme=github_dark&title_color=c9d1d9&text_color=c9d1d9&icon_color=94a3b8&chart_color=94a3b8&utcOffset=5.75">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bijay085&theme=graywhite&utcOffset=5.75" width="340" alt="Commit activity by hour, Nepal time">
+</picture>
+
+[View repositories and languages on GitHub](https://github.com/bijay085?tab=repositories)
+
+</details>
+
+<details>
+<summary><strong>Archived College Projects</strong></summary>
+
+<table>
+<tr>
+<td><strong><a href="https://github.com/bijay085/College-Project">FraudShield</a></strong></td>
+<td>Rule-based ecommerce fraud detection, real-time transaction scoring. Final year project.</td>
+<td>Python · Flask · MongoDB</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/bijay085/Projects/tree/master/CMS%20Site">CMS Platform</a></strong></td>
+<td>Static JSON-driven CMS with admin controls. <a href="https://flamemodparadise.github.io/My-Site/">Live demo</a>.</td>
+<td>HTML · CSS · JS</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/bijay085/Projects/tree/master/Gamified%20Learning%20Progress%20Tracker">Learning Tracker</a></strong></td>
+<td>Gamified progress tracking with XP, streaks and unlockables.</td>
+<td>PHP · MySQL · JS</td>
+</tr>
+</table>
+
+</details>
+
+## Off the Clock
+
+<table>
+<tr><td align="center">🎮</td><td>Fighting games. I lose with technique.</td></tr>
+<tr><td align="center">🎬</td><td>Anime. I will defend the filler episodes.</td></tr>
+<tr><td align="center">🕵️</td><td>Web pentesting with Burp Suite. Curiosity first, now how I audit client sites.</td></tr>
+<tr><td align="center">📈</td><td>SEO experiments on my own domains. Search Console is a hobby, apparently.</td></tr>
+<tr><td align="center">😴</td><td>Sleeping is a skill. 48h a day if physics allowed.</td></tr>
+<tr><td align="center">🤖</td><td>I automate everything, including my excuses.</td></tr>
+</table>
+
+## Let's Build Something
+
+<div align="center">
+
+Freelance Python developer · SEO specialist · Automation and Chrome extension builder · Nepal
+
+Custom tools, scrapers, bots, ClickUp / Slack / Sheets automation, technical SEO, service pages.<br>Fast replies, proof of results on request.
+
+<p>
+<a href="mailto:bijaykoirala003@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-bijaykoirala003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email"></a>
+&nbsp;
+<a href="https://bijaykoirala0.com.np/"><img height="28" src="https://img.shields.io/badge/Portfolio-bijaykoirala0.com.np-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1220" alt="Portfolio"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bijay-koirala/"><img height="28" src="https://img.shields.io/badge/LinkedIn-bijay--koirala-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1220" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://github.com/bijay085"><img height="28" src="https://img.shields.io/badge/GitHub-bijay085-22C55E?style=flat-square&logo=github&logoColor=white&labelColor=0B1220" alt="GitHub"></a>
+&nbsp;
+<a href="https://chromewebstore.google.com/detail/seo-checker/kkkmgadddcabjfccbknmalbhiecfheog"><img height="28" src="https://img.shields.io/badge/Chrome%20Web%20Store-3%20extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1220" alt="Chrome Web Store"></a>
+</p>
+
+<p>“First, solve the problem. Then, write the code.”<br>John Johnson</p>
+
+</div>
 <!--
   ══════════════════════════════════════════════════════════════════
    bijay085 / bijay085  ·  Profile README  ·  updated Sep 2026
