@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bijay085/bijay085/main/assets/terminal.svg" width="100%" alt="Bijay Koirala, Python developer and SEO specialist from Nepal. Builds scrapers, Telegram bots, ClickUp automation and Chrome extensions. Open for freelance.">
+<img src="https://raw.githubusercontent.com/bijay085/bijay085/master/assets/terminal.svg?v=2" width="100%" alt="Bijay Koirala, Python developer and SEO specialist from Nepal. Builds scrapers, Telegram bots, ClickUp automation and Chrome extensions. Open for freelance.">
 
 <br><br>
 
