@@ -1,7 +1,10 @@
 <!--
   bijay085 / bijay085 · profile README · updated Sep 2026
-  Accent #00ADB5 · Dark #020B20 · Portfolio https://bijaykoirala0.com.np/
-  Hero animation lives in assets/terminal.svg (commit it to this repo).
+  Type:  mono  "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
+         sans  -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif
+  Scale: 27/700 name · 20/600 footer · 18/600 tagline · 17/500 body · 15/400 dim · 12/600 label
+  Color: #020B20 base · #00ADB5 accent · #0F4C5C deep · #c9d1d9 text · #7d8590 dim
+  Art:   assets/terminal.svg · tagline.svg · divider.svg · footer.svg  (all self-hosted)
 -->
 
 <!-- ══════════════════════════ HERO ══════════════════════════ -->
@@ -12,9 +15,7 @@
 
 <br><br>
 
-<a href="https://bijaykoirala0.com.np/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=00ADB5&center=true&vCenter=true&width=660&lines=Hire+a+Python+%26+SEO+developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;I+build+bots%2C+scrapers+%26+Chrome+extensions;ClickUp+%E2%86%92+Sheets+%E2%86%92+Slack+automation+that+just+works;Technical+SEO+that+moves+Search+Console;Custom+tools+at+prices+that+make+sense" alt="Hire a Python and SEO developer from Nepal">
-</a>
+<a href="https://bijaykoirala0.com.np/"><img src="https://raw.githubusercontent.com/bijay085/bijay085/master/assets/tagline.svg?v=2" width="86%" alt="Hire a Python and SEO developer from Nepal: bots, scrapers and Chrome extensions, ClickUp to Sheets to Slack automation, technical SEO that moves Search Console, custom tools at prices that make sense."></a>
 
 <br><br>
 
@@ -24,25 +25,17 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/bijay-koirala/"><img src="https://img.shields.io/badge/LinkedIn-connect-00ADB5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a>
 &nbsp;
+<a href="https://chromewebstore.google.com/detail/seo-checker/kkkmgadddcabjfccbknmalbhiecfheog"><img src="https://img.shields.io/badge/Web_Store-3_extensions-00ADB5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Three published Chrome extensions"></a>
+&nbsp;
 <a href="https://github.com/bijay085?tab=followers"><img src="https://img.shields.io/github/followers/bijay085?style=flat-square&color=00ADB5&labelColor=0D1117&logo=github&logoColor=white&label=Followers" alt="Followers"></a>
-
-<br>
-
-<img src="https://img.shields.io/badge/Available-freelance%20%26%20remote-4CAF50?style=flat-square&labelColor=0D1117" alt="Available for freelance and remote work">
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-automation%20%C2%B7%20SEO%20%C2%B7%20extensions-00ADB5?style=flat-square&labelColor=0D1117" alt="Focus: automation, SEO, Chrome extensions">
-&nbsp;
-<img src="https://img.shields.io/badge/Live-3%20Chrome%20extensions-00ADB5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Three live Chrome extensions">
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/bijay085/bijay085/master/assets/divider.svg?v=2" width="100%" alt="">
 
 <!-- ══════════════════════════ ABOUT ══════════════════════════ -->
 
 ## 👋 About Me
-
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="">
 
 **Bijay Koirala**, **Python developer and SEO specialist from Nepal**. I make manual work disappear: web scrapers, Telegram and Discord bots, ClickUp and Slack automation, Search Console reporting, and three published **Chrome extensions**.
 
@@ -51,8 +44,6 @@
 💼 &nbsp;Day job: **service-sector SEO**. Service pages, technical audits, Search Console growth. Before that, 3-4 months leading **ecommerce SEO** projects with consistent GSC and sales wins. Numbers on request if you're hiring.
 
 🌙 &nbsp;Nights and weekends: **freelance automation**. Custom tools, workflow connectors, scrapers, small websites, honest prices.
-
-<br clear="right">
 
 <div align="center">
 <table>
@@ -70,8 +61,6 @@
 <summary><b>💻 &nbsp;whoami</b> &nbsp;<sub>(click)</sub></summary>
 
 <br>
-
-<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="">
 
 ```python
 class Bijay:
@@ -96,8 +85,6 @@ class Bijay:
                 "ClickUp / Slack / Sheets integrations",
                 "Chrome extensions", "technical SEO", "service pages"]
 ```
-
-<br clear="right">
 
 </details>
 
@@ -140,13 +127,11 @@ class Bijay:
 
 <div align="center"><sub>💡 &nbsp;Need a <b>custom Chrome extension</b> for your team? <a href="mailto:bijaykoirala003@gmail.com">Email me</a> what it should do.</sub></div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/bijay085/bijay085/master/assets/divider.svg?v=2" width="100%" alt="">
 
 <!-- ══════════════════════ AUTOMATION ══════════════════════ -->
 
 ## ⚙️ Automation That Runs Without Me
-
-<img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="">
 
 Everything here is in production for real teams.
 
@@ -172,8 +157,6 @@ Everything here is in production for real teams.
 <td valign="top"><br>Search Console data pulled, cleaned and pushed into Sheets and Power BI. Weekly reports without opening a browser.<br><br></td>
 </tr>
 </table>
-
-<br clear="right">
 
 <div align="center"><sub>⚡ &nbsp;<b>ClickUp, Slack, Google Sheets, email, any REST API.</b> I wire them together. <a href="mailto:bijaykoirala003@gmail.com">Describe the workflow</a> and I'll tell you what it takes.</sub></div>
 
@@ -236,21 +219,17 @@ Everything here is in production for real teams.
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/bijay085/bijay085/master/assets/divider.svg?v=2" width="100%" alt="">
 
 <!-- ══════════════════════ HIRE ══════════════════════ -->
 
 ## 💼 Hire Me
-
-<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="">
 
 Looking for a **freelance Python developer**, a **web scraping expert**, someone to **automate ClickUp, Slack and Google Sheets**, an **SEO specialist who can code**, or a **custom Chrome extension**? This is that page.
 
 **How it goes:** you describe the pain → I find the API and the bottleneck → I build it in Python, Apps Script or an extension → it runs on schedule and you stop thinking about it.
 
 <sub>Prices below are starting points for small jobs. Bigger scopes get a fixed quote.</sub>
-
-<br clear="right">
 
 <table>
 <tr>
@@ -317,11 +296,6 @@ Looking for a **freelance Python developer**, a **web scraping expert**, someone
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&bg_color=020B20&color=00ADB5&line=00ADB5&point=ffffff&area_color=020B20&title_color=ffffff&area=true&hide_border=true&custom_title=Commits,%20last%2031%20days">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&bg_color=ffffff&color=00838F&line=00838F&point=24292f&area_color=ffffff&title_color=24292f&area=true&hide_border=true&custom_title=Commits,%20last%2031%20days" alt="Commit activity graph" width="100%">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
@@ -329,9 +303,14 @@ Looking for a **freelance Python developer**, a **web scraping expert**, someone
 </div>
 
 <details>
-<summary><b>📈 &nbsp;Languages, trophies and commit hours</b></summary>
+<summary><b>📈 &nbsp;Commit graph, languages and trophies</b></summary>
 <br>
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&bg_color=020B20&color=00ADB5&line=00ADB5&point=ffffff&area_color=020B20&title_color=ffffff&area=true&hide_border=true&custom_title=Commits,%20last%2031%20days">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijay085&bg_color=ffffff&color=00838F&line=00838F&point=24292f&area_color=ffffff&title_color=24292f&area=true&hide_border=true&custom_title=Commits,%20last%2031%20days" alt="Commit activity graph" width="100%">
+</picture>
+<br><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bijay085&theme=github_dark" width="49%" alt="Repositories per language">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijay085&theme=github_dark" width="49%" alt="Most committed languages">
 <br><br>
@@ -368,8 +347,6 @@ Looking for a **freelance Python developer**, a **web scraping expert**, someone
 
 ## 🎲 Off the Clock
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
-
 🎮 &nbsp;Fighting games. I lose with technique.
 
 🕵️ &nbsp;Burp Suite pentesting. Started as curiosity, now it's how I audit client sites.
@@ -377,8 +354,6 @@ Looking for a **freelance Python developer**, a **web scraping expert**, someone
 📈 &nbsp;SEO experiments on my own domains. Search Console is a hobby, apparently.
 
 🤖 &nbsp;I automate everything, including my excuses.
-
-<br clear="right">
 
 <!-- ══════════════════════ CONTACT ══════════════════════ -->
 
@@ -397,8 +372,6 @@ Fair prices, fast replies, proof of results on request.</sub>
 <a href="https://bijaykoirala0.com.np/"><img src="https://img.shields.io/badge/Portfolio-visit-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/bijay-koirala/"><img src="https://img.shields.io/badge/LinkedIn-connect-00ADB5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://chromewebstore.google.com/detail/seo-checker/kkkmgadddcabjfccbknmalbhiecfheog"><img src="https://img.shields.io/badge/Web_Store-3_extensions-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Chrome Web Store"></a>
 
 <br><br>
 
@@ -407,7 +380,4 @@ Fair prices, fast replies, proof of results on request.</sub>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020B20,50:0F4C5C,100:00ADB5&height=120&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=72">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:393E46,50:0F4C5C,100:00ADB5&height=120&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=72" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/bijay085/bijay085/master/assets/footer.svg?v=2" width="100%" alt="Thanks for stopping by. bijaykoirala003@gmail.com">
