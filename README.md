@@ -22,23 +22,23 @@
 
 <br><br>
 
-<a href="https://bijaykoirala0.com.np/"><img src="https://img.shields.io/badge/🌐_Portfolio-bijaykoirala0.com.np-00ADB5?style=for-the-badge&labelColor=020B20" alt="Portfolio"></a>
+<a href="mailto:bijaykoirala003@gmail.com"><img src="https://img.shields.io/badge/Email-hire%20me-00ADB5?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Bijay Koirala"></a>
 &nbsp;
-<a href="mailto:bijaykoirala003@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-Hire_me-EA4335?style=for-the-badge&labelColor=020B20" alt="Email Bijay Koirala"></a>
+<a href="https://bijaykoirala0.com.np/"><img src="https://img.shields.io/badge/Portfolio-bijaykoirala0.com.np-00ADB5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/bijay-koirala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020B20" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/bijay-koirala/"><img src="https://img.shields.io/badge/LinkedIn-connect-00ADB5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://github.com/bijay085?tab=followers"><img src="https://img.shields.io/github/followers/bijay085?style=flat-square&color=00ADB5&labelColor=0D1117&logo=github&logoColor=white&label=Followers" alt="Followers"></a>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/🟢_Open_for-Custom_Tools_·_Automation_·_SEO_·_Websites-4CAF50?style=flat-square&labelColor=020B20" alt="Open for custom tools, automation, SEO, websites">
+<img src="https://img.shields.io/badge/Available-freelance%20%26%20remote-4CAF50?style=flat-square&labelColor=0D1117" alt="Available for freelance and remote work">
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Nepal-GMT%2B5%3A45-00ADB5?style=flat-square&labelColor=020B20" alt="Nepal timezone">
+<img src="https://img.shields.io/badge/Based%20in-Nepal%20%C2%B7%20GMT%2B5%3A45-00ADB5?style=flat-square&labelColor=0D1117" alt="Based in Nepal, GMT+5:45">
 &nbsp;
-<img src="https://img.shields.io/badge/⚡_Reply-under_24h-FF6B6B?style=flat-square&labelColor=020B20" alt="Reply under 24 hours">
+<img src="https://img.shields.io/badge/Reply-under%2024h-00ADB5?style=flat-square&labelColor=0D1117" alt="Reply under 24 hours">
 &nbsp;
-<a href="https://github.com/bijay085?tab=followers"><img src="https://img.shields.io/github/followers/bijay085?style=flat-square&color=00ADB5&labelColor=020B20&logo=github&logoColor=white&label=Followers" alt="Followers"></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=bijay085&label=Views&color=00ADB5&style=flat-square" alt="Profile views">
+<img src="https://img.shields.io/badge/Focus-automation%20%C2%B7%20SEO%20%C2%B7%20extensions-00ADB5?style=flat-square&labelColor=0D1117" alt="Focus: automation, SEO, Chrome extensions">
 
 </div>
 
@@ -579,17 +579,17 @@ Prices are starting points for small jobs. Bigger scopes get a fixed quote.
 
 <br><br><br>
 
-<a href="mailto:bijaykoirala003@gmail.com"><img src="https://img.shields.io/badge/Email-bijaykoirala003%40gmail.com-020B20?style=for-the-badge&logo=gmail&logoColor=00ADB5" alt="Email"></a>
+<a href="mailto:bijaykoirala003@gmail.com"><img src="https://img.shields.io/badge/Email-bijaykoirala003%40gmail.com-00ADB5?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"></a>
 &nbsp;
-<a href="https://bijaykoirala0.com.np/"><img src="https://img.shields.io/badge/Portfolio-bijaykoirala0.com.np-020B20?style=for-the-badge&logo=googlechrome&logoColor=00ADB5" alt="Portfolio"></a>
+<a href="https://bijaykoirala0.com.np/"><img src="https://img.shields.io/badge/Portfolio-bijaykoirala0.com.np-00ADB5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
 
-<br><br>
+<br>
 
-<a href="https://www.linkedin.com/in/bijay-koirala/"><img src="https://img.shields.io/badge/LinkedIn-020B20?style=for-the-badge&logo=linkedin&logoColor=00ADB5" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/bijay-koirala/"><img src="https://img.shields.io/badge/LinkedIn-bijay--koirala-00ADB5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a>
 &nbsp;
-<a href="https://github.com/bijay085"><img src="https://img.shields.io/badge/GitHub-020B20?style=for-the-badge&logo=github&logoColor=00ADB5" alt="GitHub"></a>
+<a href="https://github.com/bijay085"><img src="https://img.shields.io/badge/GitHub-bijay085-00ADB5?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"></a>
 &nbsp;
-<a href="https://chromewebstore.google.com/detail/seo-checker/kkkmgadddcabjfccbknmalbhiecfheog"><img src="https://img.shields.io/badge/Chrome_Web_Store-020B20?style=for-the-badge&logo=googlechrome&logoColor=00ADB5" alt="Chrome Web Store"></a>
+<a href="https://chromewebstore.google.com/detail/seo-checker/kkkmgadddcabjfccbknmalbhiecfheog"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-3%20extensions-00ADB5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Chrome Web Store"></a>
 
 <br><br><br>
 
